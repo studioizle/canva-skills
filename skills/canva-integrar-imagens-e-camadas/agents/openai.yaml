@@ -1,0 +1,14 @@
+interface:
+  display_name: 'Canva: imagens e camadas'
+  short_description: Integrar recortes, gradientes, reflexos e sobreposições.
+  default_prompt: Use $canva-integrar-imagens-e-camadas. Integre este produto ao fundo
+    sem deixar o recorte visualmente solto.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

@@ -1,0 +1,14 @@
+interface:
+  display_name: 'Canva: animações simples'
+  short_description: Planejar estados, entradas e saídas com limites claros.
+  default_prompt: Use $canva-planejar-animacoes-simples. Planeje um Story animado
+    com este retrato e este texto, indicando quais tempos precisam ser definidos.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

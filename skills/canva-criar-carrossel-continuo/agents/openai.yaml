@@ -1,0 +1,14 @@
+interface:
+  display_name: 'Canva: carrossel contínuo'
+  short_description: Planejar panoramas e páginas conectadas por guias.
+  default_prompt: Use $canva-criar-carrossel-continuo. Planeje um carrossel contínuo
+    de 7 páginas de 1080 × 1350 com este conteúdo.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

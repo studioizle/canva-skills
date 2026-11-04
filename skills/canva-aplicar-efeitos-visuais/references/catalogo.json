@@ -1,0 +1,173 @@
+[
+  {
+    "id": 12,
+    "arquivo": "M\u00f3dulo 03 - Caixa de Ferramentas\\003 - Como adicionar textura na fonte \ufc46\udce2\\03 - Como adicionar textura na fonte \ufc46\udce2.mp4",
+    "duracao_s": 495.616,
+    "intervalo_amostra_s": 41.30133333333333,
+    "frames": "frames\\012.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Mostra textura em texto com Canva e Photopea: texto CANVA EVOLUTION em dourado, processamento em editor externo e aplica\u00e7\u00e3o em uma arte; explora tamb\u00e9m monograma RK e texturas. O mecanismo exato de m\u00e1scara precisa de frames mais pr\u00f3ximos."
+  },
+  {
+    "id": 16,
+    "arquivo": "M\u00f3dulo 03 - Caixa de Ferramentas\\007 - Como adicionar Glifos em Fontes \ufc46\udce2\\07 - Como adicionar Glifos em Fontes \ufc46\udce2.mp4",
+    "duracao_s": 488.362667,
+    "intervalo_amostra_s": 40.696888916666666,
+    "frames": "frames\\016.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Mostra exemplos de fontes caligr\u00e1ficas com extens\u00f5es decorativas, pesquisa de fontes, Creative Fabrica/Fontcloud, galeria de glifos, kit de marca do Canva e montagem de palavra com floreios. A t\u00e9cnica observ\u00e1vel \u00e9 escolher variantes ornamentais e comp\u00f4-las junto ao texto."
+  },
+  {
+    "id": 19,
+    "arquivo": "M\u00f3dulo 03 - Caixa de Ferramentas\\10 - Personalizando Fontes\\10 - Personalizando Fontes \ufc46\udce2.mp4",
+    "duracao_s": 548.074667,
+    "intervalo_amostra_s": 45.672888916666665,
+    "frames": "frames\\019.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Mostra efeitos de texto do Freepik abertos no Photopea, edi\u00e7\u00e3o de conte\u00fado em objeto inteligente e retorno ao Canva. Exemplos incluem sticker contornado e efeito azul met\u00e1lico; o nome Raysa Keila substitui o texto original."
+  },
+  {
+    "id": 22,
+    "arquivo": "M\u00f3dulo 03 - Caixa de Ferramentas\\13 - Como fazer o efeito Neomorfismo (por fora)\\13 - Como fazer o efeito Neomorfismo (por fora) \ufc46\udce2.mp4",
+    "duracao_s": 778.176,
+    "intervalo_amostra_s": 64.848,
+    "frames": "frames\\022.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Constr\u00f3i cart\u00f5es e bot\u00f5es em cinza com sombras claras/escuras para simular relevo externo. Trabalha formas, ajustes de imagem e elementos de player de m\u00fasica; o resultado tem volume suave sobre fundo da mesma fam\u00edlia de cor."
+  },
+  {
+    "id": 23,
+    "arquivo": "M\u00f3dulo 03 - Caixa de Ferramentas\\14 - Neomorfismo Invertido \ufc46\udce2.mp4",
+    "duracao_s": 459.861333,
+    "intervalo_amostra_s": 38.32177775,
+    "frames": "frames\\023.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Prepara forma arredondada no Canva, aplica efeito de relevo interno em editor externo e retorna o resultado como imagem ao Canva. Repete a ideia em texto RAYSA KEILA; os par\u00e2metros exatos de sombra n\u00e3o est\u00e3o leg\u00edveis nesta amostra."
+  },
+  {
+    "id": 24,
+    "arquivo": "M\u00f3dulo 03 - Caixa de Ferramentas\\15 - Como descobrir o nome de uma fonte \ufc46\udce2.mp4",
+    "duracao_s": 252.437333,
+    "intervalo_amostra_s": 21.036444416666665,
+    "frames": "frames\\024.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Usa WhatTheFont/MyFonts para identificar fonte a partir de uma imagem com a palavra ESPRESSO; compara resultados, procura a fam\u00edlia no DaFont e mostra \u00e1rea de fontes do kit de marca no Canva."
+  },
+  {
+    "id": 26,
+    "arquivo": "M\u00f3dulo 03 - Caixa de Ferramentas\\17 - Como fazer o efeito Glasmorfismo \ufc46\udce2.mp4",
+    "duracao_s": 486.293333,
+    "intervalo_amostra_s": 40.52444441666667,
+    "frames": "frames\\026.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Cria glassmorphism sobre foto de caf\u00e9: duplica/recorta a imagem dentro de forma, desfoca a regi\u00e3o, adiciona apar\u00eancia transl\u00facida e contorno claro, ajusta cantos e insere t\u00edtulo. O fundo continua reconhec\u00edvel atrav\u00e9s do painel."
+  },
+  {
+    "id": 27,
+    "arquivo": "M\u00f3dulo 03 - Caixa de Ferramentas\\18 - Adicionando Gradiente em fontes \ufc46\udce2.mp4",
+    "duracao_s": 173.525333,
+    "intervalo_amostra_s": 14.460444416666666,
+    "frames": "frames\\027.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Usa app TypeGradient dentro do Canva: digita Canva Evolution, escolhe fonte e gradiente de cores, gera a imagem de texto e a adiciona \u00e0 p\u00e1gina."
+  },
+  {
+    "id": 28,
+    "arquivo": "M\u00f3dulo 03 - Caixa de Ferramentas\\19 - Modificando fontes \ufc46\udce2.mp4",
+    "duracao_s": 269.802667,
+    "intervalo_amostra_s": 22.48355558333333,
+    "frames": "frames\\028.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Usa TypeCraft: edita a palavra Evolution e modifica sua geometria/perspectiva para acompanhar uma fotografia de estrada. O resultado transforma o texto em elemento visual ajust\u00e1vel."
+  }
+]

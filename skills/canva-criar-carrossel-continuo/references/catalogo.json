@@ -1,0 +1,116 @@
+[
+  {
+    "id": 47,
+    "arquivo": "M\u00f3dulo 06 - Cria\u00e7\u00e3o Para Instagram\\020 - Criando Design com Mateus \ufc46\udce2\\20 - Criando Carrossel infinito (sobre carrossel) \ufc46\udce2.mp4",
+    "duracao_s": 2393.472,
+    "intervalo_amostra_s": 199.45600000000002,
+    "frames": "frames\\047.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1080,
+        "height": 608
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Constr\u00f3i carrossel cont\u00ednuo sobre carross\u00e9is: tela horizontal com guias, fundo preto e acentos roxos/amarelos, retratos recortados, livros e imagem de carrossel. Mostra Photopea e mockup de posts, al\u00e9m de p\u00e1ginas claras/escuras que se conectam."
+  },
+  {
+    "id": 49,
+    "arquivo": "M\u00f3dulo 06 - Cria\u00e7\u00e3o Para Instagram\\03 - Criando Carrossel Infinito (J\u00f3ias) \ufc46\udce2.mp4",
+    "duracao_s": 1876.074667,
+    "intervalo_amostra_s": 156.33955558333335,
+    "frames": "frames\\049.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Cria carrossel cont\u00ednuo de joias em tela horizontal dividida por guias. Usa fotos douradas, verde azulado e creme, gradientes para transi\u00e7\u00e3o foto/fundo, t\u00edtulos serifados e pequenos textos; ao final mostra PineTools Split Image para dividir a arte."
+  },
+  {
+    "id": 50,
+    "arquivo": "M\u00f3dulo 06 - Cria\u00e7\u00e3o Para Instagram\\04 - Carrossel Clean (Sof\u00e1) \ufc46\udce2.mp4",
+    "duracao_s": 2021.674667,
+    "intervalo_amostra_s": 168.47288891666668,
+    "frames": "frames\\050.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Cria carrossel clean sobre cuidados com sof\u00e1: paleta clara, foto do produto, formas org\u00e2nicas, cart\u00f5es de texto arredondados, fotos de aspirador/chaves e elementos cont\u00ednuos entre guias. Apresenta o panorama final horizontal."
+  },
+  {
+    "id": 51,
+    "arquivo": "M\u00f3dulo 06 - Cria\u00e7\u00e3o Para Instagram\\05 - Criando Carrossel Infinito (Roube Como Um Artista) \ufc46\udce2.mp4",
+    "duracao_s": 2123.392,
+    "intervalo_amostra_s": 176.94933333333333,
+    "frames": "frames\\051.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Constr\u00f3i carrossel inspirado no livro Roube como um Artista: fundo preto, fotografias recortadas, p\u00e1ginas claras de contraste, l\u00e1pis, t\u00edtulos grandes e destaques amarelos. Trabalha continuidade entre pain\u00e9is e mostra divis\u00e3o da imagem no PineTools."
+  },
+  {
+    "id": 55,
+    "arquivo": "M\u00f3dulo 06 - Cria\u00e7\u00e3o Para Instagram\\09 - Criando Carrossel Infinito (@RK) \ufc46\udce2.mp4",
+    "duracao_s": 2781.632,
+    "intervalo_amostra_s": 231.80266666666668,
+    "frames": "frames\\055.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Carrossel cont\u00ednuo RK: guia de dimens\u00f5es multiplicando 1080 pela quantidade de p\u00e1ginas, com alturas 1080 ou 1350. Usa colunas, miniaturas de trabalhos e mockups em Photopea, fundo dourado/preto, retrato e chamada para salvar."
+  },
+  {
+    "id": 58,
+    "arquivo": "M\u00f3dulo 06 - Cria\u00e7\u00e3o Para Instagram\\12 - Criando Carrossel Infinito (Steve Jobs) \ufc46\udce2.mp4",
+    "duracao_s": 2053.845333,
+    "intervalo_amostra_s": 171.15377775000002,
+    "frames": "frames\\058.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Carrossel Steve Jobs com retratos recortados, fundo preto/azul, n\u00fameros grandes em contorno, palavras destacadas e linhas diagonais atravessando p\u00e1ginas. Recorta uma m\u00e3o separadamente e exporta a composi\u00e7\u00e3o. A atribui\u00e7\u00e3o das frases n\u00e3o foi verificada."
+  }
+]

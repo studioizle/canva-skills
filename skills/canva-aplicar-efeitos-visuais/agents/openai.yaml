@@ -1,0 +1,14 @@
+interface:
+  display_name: 'Canva: efeitos visuais'
+  short_description: Selecionar efeitos com etapas e limites documentados.
+  default_prompt: Use $canva-aplicar-efeitos-visuais. Quero um painel com aparência
+    de vidro nesta arte; indique as etapas sustentadas pela base.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

@@ -1,0 +1,412 @@
+[
+  {
+    "id": 8,
+    "arquivo": "M\u00f3dulo 02 - Conhecendo o Canva\\05 - Matriz de Refer\u00eancia na pr\u00e1tica\\05 - Matriz de Refer\u00eancia na pr\u00e1tica.mp4",
+    "duracao_s": 1099.392,
+    "intervalo_amostra_s": 91.616,
+    "frames": "frames/008-revisao.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "tempos_s": [
+      45.808,
+      137.424,
+      229.04,
+      320.656,
+      412.272,
+      503.888,
+      595.504,
+      687.12,
+      778.736,
+      870.352,
+      961.968,
+      1053.584
+    ],
+    "metodo": "busca_temporal_decodificada",
+    "observacao": "Revis\u00e3o com 12 buscas temporais: pesquisa refer\u00eancias no Google, Behance e Pinterest, monta post com halo neon rosa, retrato recortado, t\u00edtulo CANVA, gradiente escuro e texturas. As novas amostras cobrem melhor a constru\u00e7\u00e3o do que a extra\u00e7\u00e3o inicial."
+  },
+  {
+    "id": 9,
+    "arquivo": "M\u00f3dulo 02 - Conhecendo o Canva\\06 - Matriz de Refer\u00eancia na Pr\u00e1tica 2\\06 - Matriz de Refer\u00eancia na Pr\u00e1tica 2.mp4",
+    "duracao_s": 1375.957333,
+    "intervalo_amostra_s": 114.66311108333333,
+    "frames": "frames/009-revisao.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "tempos_s": [
+      57.33155554166667,
+      171.994666625,
+      286.65777770833336,
+      401.3208887916667,
+      515.983999875,
+      630.6471109583334,
+      745.3102220416667,
+      859.9733331250001,
+      974.6364442083333,
+      1089.2995552916666,
+      1203.962666375,
+      1318.6257774583335
+    ],
+    "metodo": "busca_temporal_decodificada",
+    "observacao": "Revis\u00e3o com 12 buscas temporais: pesquisa an\u00fancios de hamb\u00farguer, monta fundo vermelho, mesa de madeira, produto recortado, raios, pontos/luzes e t\u00edtulo de oferta. Alterna refer\u00eancia e composi\u00e7\u00e3o para ajustar hierarquia e posi\u00e7\u00e3o."
+  },
+  {
+    "id": 46,
+    "arquivo": "M\u00f3dulo 06 - Cria\u00e7\u00e3o Para Instagram\\02 - Desenvolvendo estilos de Design (Evento Crist\u00e3o) \ufc46\udce2.mp4",
+    "duracao_s": 1146.24,
+    "intervalo_amostra_s": 95.52,
+    "frames": "frames\\046.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Constr\u00f3i arte de evento crist\u00e3o DOMINGO: fundo marrom, recorte do palestrante, foto de p\u00fablico, t\u00edtulo grande texturizado, informa\u00e7\u00f5es menores, texto circular, gradientes e luzes. Ajusta a composi\u00e7\u00e3o para obter vers\u00f5es de estilo."
+  },
+  {
+    "id": 48,
+    "arquivo": "M\u00f3dulo 06 - Cria\u00e7\u00e3o Para Instagram\\021 - Criando Carrossel infinito (sobre carrossel) \ufc46\udce2\\21 - Criando Post Est\u00e1tico Minimalista \ufc46\udce2.mp4",
+    "duracao_s": 942.208,
+    "intervalo_amostra_s": 78.51733333333333,
+    "frames": "frames\\048.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Cria post minimalista com retrato em preto e branco, letras/molduras em sequ\u00eancia vertical, texto EVOLUTION atravessando a imagem e pequeno destaque amarelo. Explora camadas, recorte e texto discreto em contorno."
+  },
+  {
+    "id": 52,
+    "arquivo": "M\u00f3dulo 06 - Cria\u00e7\u00e3o Para Instagram\\06 - Criativo Stories (Evento Tdah) \ufc46\udce2.mp4",
+    "duracao_s": 1396.458667,
+    "intervalo_amostra_s": 116.37155558333335,
+    "frames": "frames\\052.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Cria Story de evento TDAH com retrato de m\u00e9dico, fundo quente, gradiente escuro, chamada ESTAMOS AO VIVO, data em destaque, s\u00edmbolos e efeitos de luz/textura. O foco visual \u00e9 integrar retrato e texto na composi\u00e7\u00e3o vertical."
+  },
+  {
+    "id": 53,
+    "arquivo": "M\u00f3dulo 06 - Cria\u00e7\u00e3o Para Instagram\\07 - Recriando Post Est\u00e1tico (@Sanch\u00e3o I) \ufc46\udce2.mp4",
+    "duracao_s": 1056.149333,
+    "intervalo_amostra_s": 88.01244441666667,
+    "frames": "frames\\053.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Recria an\u00fancio de produto digital: fundo azul com d\u00f3lares, notifica\u00e7\u00f5es de vendas em cart\u00f5es transl\u00facidos, retrato recortado, gradiente e t\u00edtulo. Adiciona dinheiro em primeiro plano e controla a sobreposi\u00e7\u00e3o por camadas."
+  },
+  {
+    "id": 54,
+    "arquivo": "M\u00f3dulo 06 - Cria\u00e7\u00e3o Para Instagram\\08 - Recriando Post Est\u00e1tico (@Sanch\u00e3o II) \ufc46\udce2.mp4",
+    "duracao_s": 767.914667,
+    "intervalo_amostra_s": 63.992888916666665,
+    "frames": "frames\\054.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Recria varia\u00e7\u00e3o de an\u00fancio com mockup de smartphone, notifica\u00e7\u00f5es na tela, retrato sobreposto, ilumina\u00e7\u00e3o azul/verde, dinheiro e chamada na base. A sequ\u00eancia evidencia recorte, luzes e gradientes para unir os elementos."
+  },
+  {
+    "id": 56,
+    "arquivo": "M\u00f3dulo 06 - Cria\u00e7\u00e3o Para Instagram\\10 - Criando Post Est\u00e1tico (Black Friday) @RK \ufc46\udce2.mp4",
+    "duracao_s": 852.321,
+    "intervalo_amostra_s": 71.02675,
+    "frames": "frames\\056.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Cria post de Black Friday do curso com fotografia urbana escura, retrato em tom verde, t\u00edtulo superior, oferta/pre\u00e7os na base e efeitos de luz. Ajusta grupos e camadas para hierarquia entre headline, rosto e oferta."
+  },
+  {
+    "id": 57,
+    "arquivo": "M\u00f3dulo 06 - Cria\u00e7\u00e3o Para Instagram\\11 - Criando post Est\u00e1tico (Black Friday) Tatoo \ufc46\udce2.mp4",
+    "duracao_s": 811.754667,
+    "intervalo_amostra_s": 67.64622225000001,
+    "frames": "frames\\057.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Cria promo\u00e7\u00e3o de tatuagem: fundo escuro desfocado, retrato do bra\u00e7o tatuado, equipamento, BLACK FRIDAY em branco com faixa amarela, desconto de 20% e datas. Combina recorte, sombras, textura e acentos de luz."
+  },
+  {
+    "id": 59,
+    "arquivo": "M\u00f3dulo 06 - Cria\u00e7\u00e3o Para Instagram\\13 - Criando capa de Reels \ufc46\udce2.mp4",
+    "duracao_s": 925.290667,
+    "intervalo_amostra_s": 77.10755558333334,
+    "frames": "frames\\059.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Capa vertical de Reels com guias, fundo mostarda, headline branca, palavra Canva em outra tipografia, l\u00e2mpada dourada e chamada para assistir. Ajusta elementos para a regi\u00e3o central e adiciona luz/textura."
+  },
+  {
+    "id": 60,
+    "arquivo": "M\u00f3dulo 06 - Cria\u00e7\u00e3o Para Instagram\\14 - Criando Design De Live\ufc46\udce2.mp4",
+    "duracao_s": 763.904,
+    "intervalo_amostra_s": 63.65866666666667,
+    "frames": "frames\\060.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Design de live com cidade desfocada azul, retrato em aro met\u00e1lico rosa/roxo e t\u00edtulo LIVE preenchido e contornado. Sobrep\u00f5e a pessoa ao aro, organiza tema, data e lembrete."
+  },
+  {
+    "id": 61,
+    "arquivo": "M\u00f3dulo 06 - Cria\u00e7\u00e3o Para Instagram\\15 - Criando flyer para evento \ufc46\udce2.mp4",
+    "duracao_s": 1254.058667,
+    "intervalo_amostra_s": 104.50488891666667,
+    "frames": "frames\\061.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Flyer Electro Party: retrato do DJ, quadrado neon rosa/azul, fundo escuro, t\u00edtulo grande, data e atra\u00e7\u00f5es. Usa Photopea para recorte/fade e acrescenta fuma\u00e7a e luzes em camadas."
+  },
+  {
+    "id": 62,
+    "arquivo": "M\u00f3dulo 06 - Cria\u00e7\u00e3o Para Instagram\\16 - Criando design na pr\u00e1tica (GELEIA) \ufc46\udce2.mp4",
+    "duracao_s": 685.802667,
+    "intervalo_amostra_s": 57.150222250000006,
+    "frames": "frames\\062.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Publicidade de geleia Queensberry: pote recortado, frutas e folhas em primeiro plano, c\u00e9u ao fundo e superf\u00edcie/reflexo na base. Integra os elementos com gradientes rosa/roxo e ilumina\u00e7\u00e3o."
+  },
+  {
+    "id": 63,
+    "arquivo": "M\u00f3dulo 06 - Cria\u00e7\u00e3o Para Instagram\\17 - Criando um design na pr\u00e1tica (REL\u00d3GIO) \ufc46\udce2.mp4",
+    "duracao_s": 694.293333,
+    "intervalo_amostra_s": 57.85777775,
+    "frames": "frames\\063.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "An\u00fancio de rel\u00f3gio sobre pedestal preto/dourado, halo azul, t\u00edtulo New Collection e bot\u00e3o de compra. Trabalha sombras, ilumina\u00e7\u00e3o e contraste do produto."
+  },
+  {
+    "id": 64,
+    "arquivo": "M\u00f3dulo 06 - Cria\u00e7\u00e3o Para Instagram\\18 - Criando um design na pr\u00e1tica (DENTISTA) \ufc46\udce2.mp4",
+    "duracao_s": 546.602667,
+    "intervalo_amostra_s": 45.55022225,
+    "frames": "frames\\064.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Post de dentista com pergunta sobre escova dura, fundo branco, headline azul, m\u00e3o com escovas, palavra ESCOVA repetida em contorno e gradiente na base. A resposta cl\u00ednica n\u00e3o aparece nas amostras."
+  },
+  {
+    "id": 65,
+    "arquivo": "M\u00f3dulo 06 - Cria\u00e7\u00e3o Para Instagram\\19 - Criando Design com Mateus \ufc46\udce2.mp4",
+    "duracao_s": 1100.778667,
+    "intervalo_amostra_s": 91.73155558333333,
+    "frames": "frames\\065.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Mateus monta capa de portf\u00f3lio com retratos duplicados em tamanhos diferentes, uma c\u00f3pia dessaturada/desfocada e outra colorida recortada. Mostra Adobe Express para remo\u00e7\u00e3o de fundo, monograma e gradiente escuro na base."
+  },
+  {
+    "id": 66,
+    "arquivo": "M\u00f3dulo 06 - Cria\u00e7\u00e3o Para Instagram\\22 - Criando Design Paris \ufc46\udce2.mp4",
+    "duracao_s": 711.666667,
+    "intervalo_amostra_s": 59.30555558333333,
+    "frames": "frames\\066.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Composi\u00e7\u00e3o Paris: foto em moldura com canto dobrado, recorte da Torre Eiffel saindo da moldura, sombra, arco claro, t\u00edtulo espa\u00e7ado e textura sutil. Pesquisa fonte no DaFont e ajusta margens/camadas."
+  },
+  {
+    "id": 79,
+    "arquivo": "M\u00f3dulo 08 - Cria\u00e7\u00e3o Extra\\003 - Criando a Capa do Youtube \ufc4a\udce1\\03 - Criando Tumbnail I \ufc4a\udce1.mp4",
+    "duracao_s": 592.661333,
+    "intervalo_amostra_s": 49.388444416666665,
+    "frames": "frames\\079.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Thumbnail I: refer\u00eancias no YouTube, retrato recortado com borda branca, fundo amarelo, t\u00edtulo grande \u00e0 esquerda, espa\u00e7amento, gradientes e textura de pl\u00e1stico com transpar\u00eancia."
+  },
+  {
+    "id": 81,
+    "arquivo": "M\u00f3dulo 08 - Cria\u00e7\u00e3o Extra\\04 - Criando Thumbnail II \ufc4a\udce1.mp4",
+    "duracao_s": 299.925333,
+    "intervalo_amostra_s": 24.993777750000003,
+    "frames": "frames\\081.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Thumbnail II: colagem de jornal e papel rasgado, retrato recortado, fundo fotogr\u00e1fico substitu\u00eddo/escurecido e t\u00edtulo branco com sombra. Adiciona padr\u00f5es discretos para finalizar."
+  },
+  {
+    "id": 83,
+    "arquivo": "M\u00f3dulo 08 - Cria\u00e7\u00e3o Extra\\06 - Como fazer convite de anivers\u00e1rio \ufc4a\udce1.mp4",
+    "duracao_s": 583.424,
+    "intervalo_amostra_s": 48.61866666666666,
+    "frames": "frames\\083.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Convite de 15 anos: refer\u00eancias Pinterest, fundo rose gold, ret\u00e2ngulo claro, nome manuscrito, n\u00famero grande e folhas met\u00e1licas. Usa Photopea para tratar o n\u00famero, alinha blocos e monta variantes."
+  }
+]

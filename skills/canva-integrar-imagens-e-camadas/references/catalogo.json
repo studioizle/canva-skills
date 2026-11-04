@@ -1,0 +1,173 @@
+[
+  {
+    "id": 13,
+    "arquivo": "M\u00f3dulo 03 - Caixa de Ferramentas\\004 - Como fazer degrad\u00ea em foto\\04 - Como fazer degrad\u00ea em foto \ufc46\udce2.mp4",
+    "duracao_s": 331.84,
+    "intervalo_amostra_s": 27.653333333333332,
+    "frames": "frames\\013.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Demonstra fus\u00e3o de retrato recortado com fundo: no Canva, sobreposi\u00e7\u00e3o de gradiente escuro na base; no Photopea, cria\u00e7\u00e3o de desaparecimento gradual da parte inferior; depois reposiciona o retrato sobre fotografia noturna."
+  },
+  {
+    "id": 17,
+    "arquivo": "M\u00f3dulo 03 - Caixa de Ferramentas\\08 - Texto Vazado\\08 - Texto Vazado \ufc46\udce2.mp4",
+    "duracao_s": 188.928,
+    "intervalo_amostra_s": 15.744,
+    "frames": "frames\\017.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Constr\u00f3i efeito de texto atravessado por imagem: fotografia de m\u00e3o com maquiagem, t\u00edtulo 5 TIPS, c\u00f3pias de texto preenchido e em contorno, painel de posi\u00e7\u00e3o/camadas. A sobreposi\u00e7\u00e3o cria profundidade entre letras e objeto fotografado."
+  },
+  {
+    "id": 29,
+    "arquivo": "M\u00f3dulo 03 - Caixa de Ferramentas\\20 - Sobre fotos \ufc46\udce2.mp4",
+    "duracao_s": 472.064,
+    "intervalo_amostra_s": 39.33866666666667,
+    "frames": "frames\\029.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Mostra remo\u00e7\u00e3o de fundo de retrato, recorte e reposicionamento, apps de fotografia e ajustes de imagem. Depois coloca gradiente escuro e t\u00edtulo sobre foto de pessoa com notebook para tornar o texto leg\u00edvel."
+  },
+  {
+    "id": 60,
+    "arquivo": "M\u00f3dulo 06 - Cria\u00e7\u00e3o Para Instagram\\14 - Criando Design De Live\ufc46\udce2.mp4",
+    "duracao_s": 763.904,
+    "intervalo_amostra_s": 63.65866666666667,
+    "frames": "frames\\060.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Design de live com cidade desfocada azul, retrato em aro met\u00e1lico rosa/roxo e t\u00edtulo LIVE preenchido e contornado. Sobrep\u00f5e a pessoa ao aro, organiza tema, data e lembrete."
+  },
+  {
+    "id": 62,
+    "arquivo": "M\u00f3dulo 06 - Cria\u00e7\u00e3o Para Instagram\\16 - Criando design na pr\u00e1tica (GELEIA) \ufc46\udce2.mp4",
+    "duracao_s": 685.802667,
+    "intervalo_amostra_s": 57.150222250000006,
+    "frames": "frames\\062.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Publicidade de geleia Queensberry: pote recortado, frutas e folhas em primeiro plano, c\u00e9u ao fundo e superf\u00edcie/reflexo na base. Integra os elementos com gradientes rosa/roxo e ilumina\u00e7\u00e3o."
+  },
+  {
+    "id": 63,
+    "arquivo": "M\u00f3dulo 06 - Cria\u00e7\u00e3o Para Instagram\\17 - Criando um design na pr\u00e1tica (REL\u00d3GIO) \ufc46\udce2.mp4",
+    "duracao_s": 694.293333,
+    "intervalo_amostra_s": 57.85777775,
+    "frames": "frames\\063.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "An\u00fancio de rel\u00f3gio sobre pedestal preto/dourado, halo azul, t\u00edtulo New Collection e bot\u00e3o de compra. Trabalha sombras, ilumina\u00e7\u00e3o e contraste do produto."
+  },
+  {
+    "id": 65,
+    "arquivo": "M\u00f3dulo 06 - Cria\u00e7\u00e3o Para Instagram\\19 - Criando Design com Mateus \ufc46\udce2.mp4",
+    "duracao_s": 1100.778667,
+    "intervalo_amostra_s": 91.73155558333333,
+    "frames": "frames\\065.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Mateus monta capa de portf\u00f3lio com retratos duplicados em tamanhos diferentes, uma c\u00f3pia dessaturada/desfocada e outra colorida recortada. Mostra Adobe Express para remo\u00e7\u00e3o de fundo, monograma e gradiente escuro na base."
+  },
+  {
+    "id": 66,
+    "arquivo": "M\u00f3dulo 06 - Cria\u00e7\u00e3o Para Instagram\\22 - Criando Design Paris \ufc46\udce2.mp4",
+    "duracao_s": 711.666667,
+    "intervalo_amostra_s": 59.30555558333333,
+    "frames": "frames\\066.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Composi\u00e7\u00e3o Paris: foto em moldura com canto dobrado, recorte da Torre Eiffel saindo da moldura, sombra, arco claro, t\u00edtulo espa\u00e7ado e textura sutil. Pesquisa fonte no DaFont e ajusta margens/camadas."
+  },
+  {
+    "id": 88,
+    "arquivo": "M\u00f3dulo 09 - IA com Canva\\04 - Criando Reflexo \ufc46\udce2.mp4",
+    "duracao_s": 224.170667,
+    "intervalo_amostra_s": 18.680888916666667,
+    "frames": "frames\\088.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Easy Reflections: carro recortado sobre fundo preto, reflex\u00e3o invertida na base, controles de posi\u00e7\u00e3o/opacidade e composi\u00e7\u00e3o sobre \u00e1gua com gradiente escuro."
+  }
+]

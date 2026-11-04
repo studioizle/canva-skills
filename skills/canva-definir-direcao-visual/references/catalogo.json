@@ -1,0 +1,165 @@
+[
+  {
+    "id": 7,
+    "arquivo": "M\u00f3dulo 02 - Conhecendo o Canva\\04 - Conceito da Matriz de Refer\u00eancia\\04 - Conceito da Matriz de Refer\u00eancia.mp4",
+    "duracao_s": 326.634667,
+    "intervalo_amostra_s": 27.21955558333333,
+    "frames": "frames\\007.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Define a matriz de refer\u00eancia como fonte de inspira\u00e7\u00e3o para criar designs para clientes. Mostra o livro Roube como um Artista e lista Pinterest, Behance, Canva, Instagram e Google como fontes."
+  },
+  {
+    "id": 8,
+    "arquivo": "M\u00f3dulo 02 - Conhecendo o Canva\\05 - Matriz de Refer\u00eancia na pr\u00e1tica\\05 - Matriz de Refer\u00eancia na pr\u00e1tica.mp4",
+    "duracao_s": 1099.392,
+    "intervalo_amostra_s": 91.616,
+    "frames": "frames/008-revisao.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "tempos_s": [
+      45.808,
+      137.424,
+      229.04,
+      320.656,
+      412.272,
+      503.888,
+      595.504,
+      687.12,
+      778.736,
+      870.352,
+      961.968,
+      1053.584
+    ],
+    "metodo": "busca_temporal_decodificada",
+    "observacao": "Revis\u00e3o com 12 buscas temporais: pesquisa refer\u00eancias no Google, Behance e Pinterest, monta post com halo neon rosa, retrato recortado, t\u00edtulo CANVA, gradiente escuro e texturas. As novas amostras cobrem melhor a constru\u00e7\u00e3o do que a extra\u00e7\u00e3o inicial."
+  },
+  {
+    "id": 9,
+    "arquivo": "M\u00f3dulo 02 - Conhecendo o Canva\\06 - Matriz de Refer\u00eancia na Pr\u00e1tica 2\\06 - Matriz de Refer\u00eancia na Pr\u00e1tica 2.mp4",
+    "duracao_s": 1375.957333,
+    "intervalo_amostra_s": 114.66311108333333,
+    "frames": "frames/009-revisao.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "tempos_s": [
+      57.33155554166667,
+      171.994666625,
+      286.65777770833336,
+      401.3208887916667,
+      515.983999875,
+      630.6471109583334,
+      745.3102220416667,
+      859.9733331250001,
+      974.6364442083333,
+      1089.2995552916666,
+      1203.962666375,
+      1318.6257774583335
+    ],
+    "metodo": "busca_temporal_decodificada",
+    "observacao": "Revis\u00e3o com 12 buscas temporais: pesquisa an\u00fancios de hamb\u00farguer, monta fundo vermelho, mesa de madeira, produto recortado, raios, pontos/luzes e t\u00edtulo de oferta. Alterna refer\u00eancia e composi\u00e7\u00e3o para ajustar hierarquia e posi\u00e7\u00e3o."
+  },
+  {
+    "id": 31,
+    "arquivo": "M\u00f3dulo 04 - Identidade Visual\\001 - Criando um Moodbord \ufc46\udce2\\01 - Criando um Moodbord \ufc46\udce2.mp4",
+    "duracao_s": 420.394667,
+    "intervalo_amostra_s": 35.03288891666667,
+    "frames": "frames\\031.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Define moodboard como painel de refer\u00eancias para estabelecer dire\u00e7\u00e3o visual e comunicar ideias/sensa\u00e7\u00f5es no in\u00edcio do projeto. Pesquisa fotos e cores no Pinterest, mostra briefing e monta colagem com fotografias e tr\u00eas amostras de cor no Canva."
+  },
+  {
+    "id": 32,
+    "arquivo": "M\u00f3dulo 04 - Identidade Visual\\002 - Entendendo Psicologia das Cores \ufc46\udce2\\02 - Entendendo Psicologia das Cores \ufc46\udce2.mp4",
+    "duracao_s": 1293.312,
+    "intervalo_amostra_s": 107.776,
+    "frames": "frames\\032.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Slides apresentam psicologia das cores, c\u00edrculo com cores quentes/frias e associa\u00e7\u00f5es de sensa\u00e7\u00f5es. Exemplos vis\u00edveis: vermelho/Netflix, azul/HP, roxo/Nubank, rosa/Barbie e cinza/Apple. Registro do que a aula apresenta; as associa\u00e7\u00f5es n\u00e3o foram verificadas como regras universais."
+  },
+  {
+    "id": 33,
+    "arquivo": "M\u00f3dulo 04 - Identidade Visual\\003 - Definindo Paleta de Cor \ufc46\udce2\\03 - Definindo Paleta de Cor \ufc46\udce2.mp4",
+    "duracao_s": 1128.682667,
+    "intervalo_amostra_s": 94.05688891666667,
+    "frames": "frames\\033.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Relaciona paleta definida com reconhecimento de marca; apresenta c\u00edrculo crom\u00e1tico, combina\u00e7\u00f5es monocrom\u00e1tica e tr\u00edade, Adobe Color e Coolors. Demonstra ajuste e gera\u00e7\u00e3o de combina\u00e7\u00f5es em ferramentas externas."
+  },
+  {
+    "id": 34,
+    "arquivo": "M\u00f3dulo 04 - Identidade Visual\\004 - Definindo Tipografia \ufc46\udce2\\04 - Definindo Tipografia \ufc46\udce2.mp4",
+    "duracao_s": 1025.408,
+    "intervalo_amostra_s": 85.45066666666666,
+    "frames": "frames\\034.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Define tipografia como organiza\u00e7\u00e3o da apar\u00eancia do texto para legibilidade e comunica\u00e7\u00e3o. Mostra serif, sans serif, manuscrita e display, exemplos de adequa\u00e7\u00e3o entre fonte e mensagem e ferramentas Canva, FontJoy e Google Fonts."
+  }
+]

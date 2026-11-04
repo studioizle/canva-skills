@@ -1,0 +1,14 @@
+interface:
+  display_name: 'Canva: direção visual'
+  short_description: Organizar referências, cores e tipografia para um projeto.
+  default_prompt: Use $canva-definir-direcao-visual. Defina uma direção visual para
+    uma oficina de móveis com as referências que anexei.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

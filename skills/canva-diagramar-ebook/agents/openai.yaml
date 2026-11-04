@@ -1,0 +1,14 @@
+interface:
+  display_name: 'Canva: diagramação de ebook'
+  short_description: Diagramar textos em capa, índice e páginas consistentes.
+  default_prompt: Use $canva-diagramar-ebook. Diagrame este texto aprovado em um ebook
+    com a identidade que anexei.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

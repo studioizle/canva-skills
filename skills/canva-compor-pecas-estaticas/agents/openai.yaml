@@ -1,0 +1,14 @@
+interface:
+  display_name: 'Canva: peças estáticas'
+  short_description: Compor posts, capas, anúncios e peças de eventos.
+  default_prompt: Use $canva-compor-pecas-estaticas. Monte um post para divulgar meu
+    serviço usando este texto e estas fotos.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

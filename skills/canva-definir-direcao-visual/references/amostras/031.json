@@ -1,0 +1,18 @@
+{
+  "id": 31,
+  "arquivo": "M\u00f3dulo 04 - Identidade Visual\\001 - Criando um Moodbord \ufc46\udce2\\01 - Criando um Moodbord \ufc46\udce2.mp4",
+  "duracao_s": 420.394667,
+  "intervalo_amostra_s": 35.03288891666667,
+  "frames": "frames\\031.jpg",
+  "streams": [
+    {
+      "codec_type": "video",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "codec_type": "audio"
+    }
+  ],
+  "status": "frames_extraidos_nao_revisados"
+}

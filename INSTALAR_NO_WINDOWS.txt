@@ -1,0 +1,10 @@
+INSTALAÇÃO NO CODEX PARA WINDOWS
+
+1. Extraia este ZIP.
+2. Copie as 10 pastas canva-* para %USERPROFILE%\.codex\skills\
+3. Se o Codex usar CODEX_HOME personalizado, use a pasta skills desse local.
+4. Reabra o Codex e use o nome da skill no seu pedido.
+
+Exemplo: Use $canva-criar-carrossel-continuo para planejar um carrossel.
+
+As skills incluem instruções e referências; não instalam integração com o Canva. As folhas visuais completas permanecem no frames.zip original e não acompanham este kit.

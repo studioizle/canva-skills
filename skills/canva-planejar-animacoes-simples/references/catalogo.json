@@ -1,0 +1,40 @@
+[
+  {
+    "id": 89,
+    "arquivo": "M\u00f3dulo 10 - Edi\u00e7\u00e3o de Video\\001 - \ufc6e\udda8 EM BREVE SER\u00c1 ADICIONADO NOVAS AULAS \ufc6e\udda8\\01_Criando_apresenta\u00e7\u00e3o_com_transi\u00e7\u00e3o_profissional_\ufc46\udce2.mp4",
+    "duracao_s": 1162.538667,
+    "intervalo_amostra_s": 96.87822225000001,
+    "frames": "frames\\089.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Apresenta\u00e7\u00e3o de planetas: cinco faixas azuis, s\u00edmbolos e t\u00edtulos; duplica p\u00e1ginas e modifica posi\u00e7\u00e3o/tamanho dos elementos para transi\u00e7\u00f5es. Insere fotos e texto, define anima\u00e7\u00f5es e mostra controle por celular/QR."
+  },
+  {
+    "id": 90,
+    "arquivo": "M\u00f3dulo 10 - Edi\u00e7\u00e3o de Video\\003 - Criando e Editando Video com Cap Cut \ufc46\udce2\\03 - Stories Animado \ufc4a\udce1.mp4",
+    "duracao_s": 471.744,
+    "intervalo_amostra_s": 39.312000000000005,
+    "frames": "frames\\090.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Stories animado no Canva: redimensiona para 1080x1920, combina retrato, fundo de v\u00eddeo com transpar\u00eancia, cart\u00e3o de texto e efeito de escrita. Ajusta anima\u00e7\u00f5es de entrada/sa\u00edda, intensidade e dura\u00e7\u00e3o, e reproduz o resultado."
+  }
+]

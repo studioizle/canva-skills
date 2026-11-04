@@ -1,0 +1,14 @@
+interface:
+  display_name: 'Canva: apresentação de marca'
+  short_description: Apresentar identidade e organizar arquivos de entrega.
+  default_prompt: Use $canva-apresentar-identidade-visual. Prepare a apresentação
+    desta identidade e organize os entregáveis para meu cliente.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

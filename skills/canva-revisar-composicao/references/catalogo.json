@@ -1,0 +1,135 @@
+[
+  {
+    "id": 38,
+    "arquivo": "M\u00f3dulo 05 - Principios do Design\\001 - Entendendo os princ\u00edpios de um Desing \ufc4a\udce1\\01 - Entendendo os princ\u00edpios de um Desing \ufc4a\udce1.mp4",
+    "duracao_s": 69.76,
+    "intervalo_amostra_s": 5.8133333333333335,
+    "frames": "frames\\038.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Introduz princ\u00edpios de design como integra\u00e7\u00e3o entre est\u00e9tica e leitura. Mostra exemplo de post com retrato e chamada sobre investimentos que ser\u00e1 refinado nas pr\u00f3ximas aulas."
+  },
+  {
+    "id": 39,
+    "arquivo": "M\u00f3dulo 05 - Principios do Design\\02 - Hierarquia \ufc4a\udce1.mp4",
+    "duracao_s": 251.392,
+    "intervalo_amostra_s": 20.949333333333332,
+    "frames": "frames\\039.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Define hierarquia visual pela ordem de import\u00e2ncia. Compara textos de tamanho uniforme com t\u00edtulo dominante, depois reduz destaque de nome/numera\u00e7\u00e3o e reorganiza o t\u00edtulo e informa\u00e7\u00f5es secund\u00e1rias do post."
+  },
+  {
+    "id": 40,
+    "arquivo": "M\u00f3dulo 05 - Principios do Design\\03 - Contraste \ufc4a\udce1.mp4",
+    "duracao_s": 189.056,
+    "intervalo_amostra_s": 15.754666666666667,
+    "frames": "frames\\040.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Define contraste entre textos/elementos e fundo, compara exemplos de baixa e maior legibilidade e altera o t\u00edtulo vermelho para branco sobre fundo azul escuro no post demonstrado."
+  },
+  {
+    "id": 41,
+    "arquivo": "M\u00f3dulo 05 - Principios do Design\\04 - Alinhamento \ufc4a\udce1.mp4",
+    "duracao_s": 216.106667,
+    "intervalo_amostra_s": 18.008888916666667,
+    "frames": "frames\\041.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Mostra alinhamento como organiza\u00e7\u00e3o da composi\u00e7\u00e3o. Compara exemplos desalinhados/alinhados e reposiciona nome, numera\u00e7\u00e3o, t\u00edtulo e rodap\u00e9 usando refer\u00eancias comuns no post."
+  },
+  {
+    "id": 42,
+    "arquivo": "M\u00f3dulo 05 - Principios do Design\\05 - Balanceamento \ufc4a\udce1.mp4",
+    "duracao_s": 140.864,
+    "intervalo_amostra_s": 11.738666666666667,
+    "frames": "frames\\042.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Define balanceamento como distribui\u00e7\u00e3o de peso visual. Compara tamanho e posi\u00e7\u00e3o de \u00edcones, fotos e texto; no post ajusta retrato e demais elementos para equilibrar os lados."
+  },
+  {
+    "id": 43,
+    "arquivo": "M\u00f3dulo 05 - Principios do Design\\06 - Respiro \ufc4a\udce1.mp4",
+    "duracao_s": 341.866667,
+    "intervalo_amostra_s": 28.488888916666667,
+    "frames": "frames\\043.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Apresenta respiro como espa\u00e7o que destaca o importante e reduz competi\u00e7\u00e3o visual. Remove decora\u00e7\u00e3o excedente, ajusta retrato e rodap\u00e9 e compara vers\u00e3o inicial com vers\u00e3o mais limpa."
+  },
+  {
+    "id": 44,
+    "arquivo": "M\u00f3dulo 05 - Principios do Design\\07 - Como eu faria o Design Perfeito \ufc4a\udce1.mp4",
+    "duracao_s": 339.370667,
+    "intervalo_amostra_s": 28.28088891666667,
+    "frames": "frames\\044.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Refina a composi\u00e7\u00e3o final: cria destaque amarelo no n\u00famero 7 e em palavras-chave, usa forma amarela atr\u00e1s do retrato, alinha t\u00edtulo e CTA, mant\u00e9m fundo azul e decora\u00e7\u00e3o pontual."
+  }
+]

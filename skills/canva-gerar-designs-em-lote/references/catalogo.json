@@ -1,0 +1,21 @@
+[
+  {
+    "id": 85,
+    "arquivo": "M\u00f3dulo 09 - IA com Canva\\001 - \ufc6e\udda8 EM BREVE SER\u00c1 ADICIONADO NOVAS AULAS \ufc6e\udda8\\01 - Conte\u00fado em lote \ufc46\udce2.mp4",
+    "duracao_s": 482.069333,
+    "intervalo_amostra_s": 40.172444416666664,
+    "frames": "frames\\085.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Cria\u00e7\u00e3o em lote: solicita frases ao ChatGPT, transfere para planilha e conecta dados ao texto de um template Canva. Gera m\u00faltiplas p\u00e1ginas e mostra uma segunda varia\u00e7\u00e3o visual."
+  }
+]

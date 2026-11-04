@@ -1,0 +1,18 @@
+{
+  "id": 43,
+  "arquivo": "M\u00f3dulo 05 - Principios do Design\\06 - Respiro \ufc4a\udce1.mp4",
+  "duracao_s": 341.866667,
+  "intervalo_amostra_s": 28.488888916666667,
+  "frames": "frames\\043.jpg",
+  "streams": [
+    {
+      "codec_type": "video",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "codec_type": "audio"
+    }
+  ],
+  "status": "frames_extraidos_nao_revisados"
+}

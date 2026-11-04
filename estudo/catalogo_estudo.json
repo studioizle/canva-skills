@@ -1,0 +1,2504 @@
+[
+  {
+    "id": 1,
+    "arquivo": "M\u00f3dulo 01 - Comece Aqui\\001 - Boas Vindas Informa\u00e7\u00f5es Importantes!\ufc46\udce2\\01 - Boas Vindas Informa\u00e7\u00f5es Importantes!\ufc46\udce2.mp4",
+    "duracao_s": 312.64,
+    "intervalo_amostra_s": 26.05333333333333,
+    "frames": "frames\\001.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Abertura seguida da apresentadora \u00e0 mesa. N\u00e3o h\u00e1 conte\u00fado textual explicativo nos frames examinados; informa\u00e7\u00f5es faladas n\u00e3o foram avaliadas."
+  },
+  {
+    "id": 2,
+    "arquivo": "M\u00f3dulo 01 - Comece Aqui\\003 - Quadro de Sugest\u00f5es\\03 - Quadro de Sugest\u00f5es.mp4",
+    "duracao_s": 17.045333,
+    "intervalo_amostra_s": 1.4204444166666665,
+    "frames": "frames\\002.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1918,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Vinheta com o texto Quadro de sugest\u00f5es e convite para deixar sugest\u00f5es de melhorias. N\u00e3o demonstra uma t\u00e9cnica de design."
+  },
+  {
+    "id": 3,
+    "arquivo": "M\u00f3dulo 01 - Comece Aqui\\02 - Mentalidade de Sucesso\\02 - Mentalidade de Sucesso.mp4",
+    "duracao_s": 686.058667,
+    "intervalo_amostra_s": 57.17155558333334,
+    "frames": "frames\\003.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Slide Mentalidade: assumir desafios, ser autodidata, n\u00e3o esperar que outras pessoas devam algo e persistir. Os exemplos e argumentos falados n\u00e3o foram avaliados."
+  },
+  {
+    "id": 4,
+    "arquivo": "M\u00f3dulo 02 - Conhecendo o Canva\\01 - Conhecendo o Canva Criando a sua conta do Zero\\01 - Conhecendo o Canva Criando a sua conta do Zero \ufc46\udce2.mp4",
+    "duracao_s": 170.538667,
+    "intervalo_amostra_s": 14.211555583333334,
+    "frames": "frames\\004.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Mostra a p\u00e1gina inicial do Canva, a tela de login/cadastro e as op\u00e7\u00f5es de acesso. A sequ\u00eancia retorna ao painel com categorias de cria\u00e7\u00e3o e designs recentes."
+  },
+  {
+    "id": 5,
+    "arquivo": "M\u00f3dulo 02 - Conhecendo o Canva\\02 - Conhecendo todas as fun\u00e7\u00f5es (fora do design) \ufc46\udce2\\02 - Conhecendo todas as fun\u00e7\u00f5es (fora do design) \ufc46\udce2.mp4",
+    "duracao_s": 664.405333,
+    "intervalo_amostra_s": 55.367111083333334,
+    "frames": "frames\\005.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Percorre o painel inicial, recursos de edi\u00e7\u00e3o/IA, kits de marca, paletas e fontes, cat\u00e1logo de apps, planejador de conte\u00fado, Product Photos, prefer\u00eancias e menu da conta. Os frames permitem mapear as \u00e1reas, sem confirmar todas as fun\u00e7\u00f5es ou condi\u00e7\u00f5es de acesso."
+  },
+  {
+    "id": 6,
+    "arquivo": "M\u00f3dulo 02 - Conhecendo o Canva\\03 - Conhecendo todas as fun\u00e7\u00f5es (dentro do design) \ufc46\udce2\\03 - Conhecendo todas as fun\u00e7\u00f5es (dentro do design) \ufc46\udce2.mp4",
+    "duracao_s": 1033.194667,
+    "intervalo_amostra_s": 86.09955558333333,
+    "frames": "frames\\006.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Percorre o editor: templates/estilos, elementos, gera\u00e7\u00e3o de imagens, texto, busca externa de imagens, desenho livre, uploads, v\u00eddeos, menu Arquivo, guias e edi\u00e7\u00e3o de texto/forma. Mostra exemplos de altera\u00e7\u00e3o do conte\u00fado da p\u00e1gina e organiza\u00e7\u00e3o visual."
+  },
+  {
+    "id": 7,
+    "arquivo": "M\u00f3dulo 02 - Conhecendo o Canva\\04 - Conceito da Matriz de Refer\u00eancia\\04 - Conceito da Matriz de Refer\u00eancia.mp4",
+    "duracao_s": 326.634667,
+    "intervalo_amostra_s": 27.21955558333333,
+    "frames": "frames\\007.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Define a matriz de refer\u00eancia como fonte de inspira\u00e7\u00e3o para criar designs para clientes. Mostra o livro Roube como um Artista e lista Pinterest, Behance, Canva, Instagram e Google como fontes."
+  },
+  {
+    "id": 8,
+    "arquivo": "M\u00f3dulo 02 - Conhecendo o Canva\\05 - Matriz de Refer\u00eancia na pr\u00e1tica\\05 - Matriz de Refer\u00eancia na pr\u00e1tica.mp4",
+    "duracao_s": 1099.392,
+    "intervalo_amostra_s": 91.616,
+    "frames": "frames/008-revisao.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "tempos_s": [
+      45.808,
+      137.424,
+      229.04,
+      320.656,
+      412.272,
+      503.888,
+      595.504,
+      687.12,
+      778.736,
+      870.352,
+      961.968,
+      1053.584
+    ],
+    "metodo": "busca_temporal_decodificada",
+    "observacao": "Revis\u00e3o com 12 buscas temporais: pesquisa refer\u00eancias no Google, Behance e Pinterest, monta post com halo neon rosa, retrato recortado, t\u00edtulo CANVA, gradiente escuro e texturas. As novas amostras cobrem melhor a constru\u00e7\u00e3o do que a extra\u00e7\u00e3o inicial."
+  },
+  {
+    "id": 9,
+    "arquivo": "M\u00f3dulo 02 - Conhecendo o Canva\\06 - Matriz de Refer\u00eancia na Pr\u00e1tica 2\\06 - Matriz de Refer\u00eancia na Pr\u00e1tica 2.mp4",
+    "duracao_s": 1375.957333,
+    "intervalo_amostra_s": 114.66311108333333,
+    "frames": "frames/009-revisao.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "tempos_s": [
+      57.33155554166667,
+      171.994666625,
+      286.65777770833336,
+      401.3208887916667,
+      515.983999875,
+      630.6471109583334,
+      745.3102220416667,
+      859.9733331250001,
+      974.6364442083333,
+      1089.2995552916666,
+      1203.962666375,
+      1318.6257774583335
+    ],
+    "metodo": "busca_temporal_decodificada",
+    "observacao": "Revis\u00e3o com 12 buscas temporais: pesquisa an\u00fancios de hamb\u00farguer, monta fundo vermelho, mesa de madeira, produto recortado, raios, pontos/luzes e t\u00edtulo de oferta. Alterna refer\u00eancia e composi\u00e7\u00e3o para ajustar hierarquia e posi\u00e7\u00e3o."
+  },
+  {
+    "id": 10,
+    "arquivo": "M\u00f3dulo 03 - Caixa de Ferramentas\\001 - MOCKUPS Como usar e onde encontrar \ufc46\udce2\\01 - MOCKUPS Como usar e onde encontrar \ufc46\udce2.mp4",
+    "duracao_s": 2197.098667,
+    "frames": "frames/010-revisao.jpg",
+    "tempos_s": [
+      91.54577779166668,
+      274.637333375,
+      457.72888895833336,
+      640.8204445416667,
+      823.912000125,
+      1007.0035557083335,
+      1190.0951112916666,
+      1373.1866668750001,
+      1556.2782224583334,
+      1739.369778041667,
+      1922.4613336250002,
+      2105.5528892083335
+    ],
+    "metodo": "busca_temporal_decodificada",
+    "observacao": "Mockups: exemplos de identidade, garrafa, sacola e mala. Usa Photopea com arquivos edit\u00e1veis, prepara arte Sacola da Ray no Canva, mostra sites de mockup e integra\u00e7\u00e3o de imagem na mala. O v\u00eddeo p\u00f4de ser lido na nova tentativa.",
+    "status": "amostras_visuais_revisadas"
+  },
+  {
+    "id": 11,
+    "arquivo": "M\u00f3dulo 03 - Caixa de Ferramentas\\002 - Mockup em Video \ufc46\udce2\\02 - Mockup em Video \ufc46\udce2.mp4",
+    "duracao_s": 434.624,
+    "intervalo_amostra_s": 36.21866666666667,
+    "frames": "frames\\011.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Apresenta MockRocket.io: sele\u00e7\u00e3o de modelo 3D de dispositivo, inclus\u00e3o de imagem/v\u00eddeo, ajustes de c\u00e2mera e ilumina\u00e7\u00e3o e visualiza\u00e7\u00e3o de notebook com a arte na tela. A sequ\u00eancia tamb\u00e9m mostra prepara\u00e7\u00e3o de arte no Canva."
+  },
+  {
+    "id": 12,
+    "arquivo": "M\u00f3dulo 03 - Caixa de Ferramentas\\003 - Como adicionar textura na fonte \ufc46\udce2\\03 - Como adicionar textura na fonte \ufc46\udce2.mp4",
+    "duracao_s": 495.616,
+    "intervalo_amostra_s": 41.30133333333333,
+    "frames": "frames\\012.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Mostra textura em texto com Canva e Photopea: texto CANVA EVOLUTION em dourado, processamento em editor externo e aplica\u00e7\u00e3o em uma arte; explora tamb\u00e9m monograma RK e texturas. O mecanismo exato de m\u00e1scara precisa de frames mais pr\u00f3ximos."
+  },
+  {
+    "id": 13,
+    "arquivo": "M\u00f3dulo 03 - Caixa de Ferramentas\\004 - Como fazer degrad\u00ea em foto\\04 - Como fazer degrad\u00ea em foto \ufc46\udce2.mp4",
+    "duracao_s": 331.84,
+    "intervalo_amostra_s": 27.653333333333332,
+    "frames": "frames\\013.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Demonstra fus\u00e3o de retrato recortado com fundo: no Canva, sobreposi\u00e7\u00e3o de gradiente escuro na base; no Photopea, cria\u00e7\u00e3o de desaparecimento gradual da parte inferior; depois reposiciona o retrato sobre fotografia noturna."
+  },
+  {
+    "id": 14,
+    "arquivo": "M\u00f3dulo 03 - Caixa de Ferramentas\\005 - Sites secretos para encontrar \u00edcones \ufc46\udce2\\05 - Sites secretos para encontrar \u00edcones \ufc46\udce2.mp4",
+    "duracao_s": 439.232,
+    "intervalo_amostra_s": 36.60266666666667,
+    "frames": "frames\\014.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Mostra busca/download de \u00edcones em p\u00e1ginas externas, incluindo Flaticon, e sua importa\u00e7\u00e3o para o Canva. Demonstra logos de apps, altera\u00e7\u00e3o de cor de \u00edcone e composi\u00e7\u00e3o com selo de verifica\u00e7\u00e3o."
+  },
+  {
+    "id": 15,
+    "arquivo": "M\u00f3dulo 03 - Caixa de Ferramentas\\006 - Banco de Imagens e Videos Livres de Direitos Autorais \ufc46\udce2\\06_Banco_de_Imagens_e_Videos_Livres_de_Direitos_Autorais_\ufc46\udce2.mp4",
+    "duracao_s": 412.032,
+    "intervalo_amostra_s": 34.336,
+    "frames": "frames\\015.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Percorre Pexels, Pixabay e outro cat\u00e1logo de fotos/v\u00eddeos. No Pixabay aparecem abas de v\u00eddeos e efeitos sonoros; no Canva aparece inser\u00e7\u00e3o de v\u00eddeo de pessoas em um ambiente de trabalho. As licen\u00e7as n\u00e3o foram verificadas nesta an\u00e1lise visual."
+  },
+  {
+    "id": 16,
+    "arquivo": "M\u00f3dulo 03 - Caixa de Ferramentas\\007 - Como adicionar Glifos em Fontes \ufc46\udce2\\07 - Como adicionar Glifos em Fontes \ufc46\udce2.mp4",
+    "duracao_s": 488.362667,
+    "intervalo_amostra_s": 40.696888916666666,
+    "frames": "frames\\016.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Mostra exemplos de fontes caligr\u00e1ficas com extens\u00f5es decorativas, pesquisa de fontes, Creative Fabrica/Fontcloud, galeria de glifos, kit de marca do Canva e montagem de palavra com floreios. A t\u00e9cnica observ\u00e1vel \u00e9 escolher variantes ornamentais e comp\u00f4-las junto ao texto."
+  },
+  {
+    "id": 17,
+    "arquivo": "M\u00f3dulo 03 - Caixa de Ferramentas\\08 - Texto Vazado\\08 - Texto Vazado \ufc46\udce2.mp4",
+    "duracao_s": 188.928,
+    "intervalo_amostra_s": 15.744,
+    "frames": "frames\\017.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Constr\u00f3i efeito de texto atravessado por imagem: fotografia de m\u00e3o com maquiagem, t\u00edtulo 5 TIPS, c\u00f3pias de texto preenchido e em contorno, painel de posi\u00e7\u00e3o/camadas. A sobreposi\u00e7\u00e3o cria profundidade entre letras e objeto fotografado."
+  },
+  {
+    "id": 18,
+    "arquivo": "M\u00f3dulo 03 - Caixa de Ferramentas\\09 - Cores e Cole\u00e7\u00e3o no Canva\\09 - Cores e Cole\u00e7\u00e3o no Canva \ufc46\udce2.mp4",
+    "duracao_s": 210.197333,
+    "intervalo_amostra_s": 17.516444416666666,
+    "frames": "frames\\018.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Mostra busca de elementos de carros e dinheiro, filtros de cor, cole\u00e7\u00f5es e menu de informa\u00e7\u00f5es de um elemento. Permite reconhecer o uso de cores e conjuntos relacionados para encontrar elementos consistentes."
+  },
+  {
+    "id": 19,
+    "arquivo": "M\u00f3dulo 03 - Caixa de Ferramentas\\10 - Personalizando Fontes\\10 - Personalizando Fontes \ufc46\udce2.mp4",
+    "duracao_s": 548.074667,
+    "intervalo_amostra_s": 45.672888916666665,
+    "frames": "frames\\019.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Mostra efeitos de texto do Freepik abertos no Photopea, edi\u00e7\u00e3o de conte\u00fado em objeto inteligente e retorno ao Canva. Exemplos incluem sticker contornado e efeito azul met\u00e1lico; o nome Raysa Keila substitui o texto original."
+  },
+  {
+    "id": 20,
+    "arquivo": "M\u00f3dulo 03 - Caixa de Ferramentas\\11 - Elementos PNG\\11 - Elementos PNG \ufc46\udce2.mp4",
+    "duracao_s": 202.069333,
+    "intervalo_amostra_s": 16.839111083333332,
+    "frames": "frames\\020.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Mostra elementos recortados no Canva e sites externos de PNG, incluindo Pngtree. Exemplos de sushi, m\u00e3os, logos e objetos evidenciam o uso de imagens com fundo transparente em composi\u00e7\u00f5es."
+  },
+  {
+    "id": 21,
+    "arquivo": "M\u00f3dulo 03 - Caixa de Ferramentas\\12 - Salvando seu Design com Qualidade\\12 - Salvando seu Design com Qualidade \ufc46\udce2.mp4",
+    "duracao_s": 252.736,
+    "intervalo_amostra_s": 21.061333333333334,
+    "frames": "frames\\021.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Compara 1080\u00d71080 com 3240\u00d73240 e 1080\u00d71350 com 3240\u00d74050, mostrando amplia\u00e7\u00e3o por 3 e painel de download. O princ\u00edpio visual \u00e9 aumentar dimens\u00f5es de exporta\u00e7\u00e3o preservando a propor\u00e7\u00e3o; n\u00e3o demonstra que ampliar cria detalhe inexistente."
+  },
+  {
+    "id": 22,
+    "arquivo": "M\u00f3dulo 03 - Caixa de Ferramentas\\13 - Como fazer o efeito Neomorfismo (por fora)\\13 - Como fazer o efeito Neomorfismo (por fora) \ufc46\udce2.mp4",
+    "duracao_s": 778.176,
+    "intervalo_amostra_s": 64.848,
+    "frames": "frames\\022.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Constr\u00f3i cart\u00f5es e bot\u00f5es em cinza com sombras claras/escuras para simular relevo externo. Trabalha formas, ajustes de imagem e elementos de player de m\u00fasica; o resultado tem volume suave sobre fundo da mesma fam\u00edlia de cor."
+  },
+  {
+    "id": 23,
+    "arquivo": "M\u00f3dulo 03 - Caixa de Ferramentas\\14 - Neomorfismo Invertido \ufc46\udce2.mp4",
+    "duracao_s": 459.861333,
+    "intervalo_amostra_s": 38.32177775,
+    "frames": "frames\\023.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Prepara forma arredondada no Canva, aplica efeito de relevo interno em editor externo e retorna o resultado como imagem ao Canva. Repete a ideia em texto RAYSA KEILA; os par\u00e2metros exatos de sombra n\u00e3o est\u00e3o leg\u00edveis nesta amostra."
+  },
+  {
+    "id": 24,
+    "arquivo": "M\u00f3dulo 03 - Caixa de Ferramentas\\15 - Como descobrir o nome de uma fonte \ufc46\udce2.mp4",
+    "duracao_s": 252.437333,
+    "intervalo_amostra_s": 21.036444416666665,
+    "frames": "frames\\024.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Usa WhatTheFont/MyFonts para identificar fonte a partir de uma imagem com a palavra ESPRESSO; compara resultados, procura a fam\u00edlia no DaFont e mostra \u00e1rea de fontes do kit de marca no Canva."
+  },
+  {
+    "id": 25,
+    "arquivo": "M\u00f3dulo 03 - Caixa de Ferramentas\\16 - Extens\u00f5es \u00dateis \ufc46\udce2.mp4",
+    "duracao_s": 327.765333,
+    "intervalo_amostra_s": 27.31377775,
+    "frames": "frames\\025.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Mostra Chrome Web Store, ColorZilla e GoFullPage. Demonstra sele\u00e7\u00e3o de cor de refer\u00eancia e captura de uma p\u00e1gina longa, incluindo visualiza\u00e7\u00e3o do arquivo capturado."
+  },
+  {
+    "id": 26,
+    "arquivo": "M\u00f3dulo 03 - Caixa de Ferramentas\\17 - Como fazer o efeito Glasmorfismo \ufc46\udce2.mp4",
+    "duracao_s": 486.293333,
+    "intervalo_amostra_s": 40.52444441666667,
+    "frames": "frames\\026.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Cria glassmorphism sobre foto de caf\u00e9: duplica/recorta a imagem dentro de forma, desfoca a regi\u00e3o, adiciona apar\u00eancia transl\u00facida e contorno claro, ajusta cantos e insere t\u00edtulo. O fundo continua reconhec\u00edvel atrav\u00e9s do painel."
+  },
+  {
+    "id": 27,
+    "arquivo": "M\u00f3dulo 03 - Caixa de Ferramentas\\18 - Adicionando Gradiente em fontes \ufc46\udce2.mp4",
+    "duracao_s": 173.525333,
+    "intervalo_amostra_s": 14.460444416666666,
+    "frames": "frames\\027.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Usa app TypeGradient dentro do Canva: digita Canva Evolution, escolhe fonte e gradiente de cores, gera a imagem de texto e a adiciona \u00e0 p\u00e1gina."
+  },
+  {
+    "id": 28,
+    "arquivo": "M\u00f3dulo 03 - Caixa de Ferramentas\\19 - Modificando fontes \ufc46\udce2.mp4",
+    "duracao_s": 269.802667,
+    "intervalo_amostra_s": 22.48355558333333,
+    "frames": "frames\\028.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Usa TypeCraft: edita a palavra Evolution e modifica sua geometria/perspectiva para acompanhar uma fotografia de estrada. O resultado transforma o texto em elemento visual ajust\u00e1vel."
+  },
+  {
+    "id": 29,
+    "arquivo": "M\u00f3dulo 03 - Caixa de Ferramentas\\20 - Sobre fotos \ufc46\udce2.mp4",
+    "duracao_s": 472.064,
+    "intervalo_amostra_s": 39.33866666666667,
+    "frames": "frames\\029.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Mostra remo\u00e7\u00e3o de fundo de retrato, recorte e reposicionamento, apps de fotografia e ajustes de imagem. Depois coloca gradiente escuro e t\u00edtulo sobre foto de pessoa com notebook para tornar o texto leg\u00edvel."
+  },
+  {
+    "id": 30,
+    "arquivo": "M\u00f3dulo 03 - Caixa de Ferramentas\\21 - Criando QRcode \ufc46\udce2.mp4",
+    "duracao_s": 195.989333,
+    "intervalo_amostra_s": 16.332444416666664,
+    "frames": "frames\\030.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Insere QR code em cart\u00e3o de visita: obt\u00e9m URL de Instagram, usa app C\u00f3digo QR, gera c\u00f3digo, redimensiona e organiza ao lado das informa\u00e7\u00f5es de contato e de uma seta."
+  },
+  {
+    "id": 31,
+    "arquivo": "M\u00f3dulo 04 - Identidade Visual\\001 - Criando um Moodbord \ufc46\udce2\\01 - Criando um Moodbord \ufc46\udce2.mp4",
+    "duracao_s": 420.394667,
+    "intervalo_amostra_s": 35.03288891666667,
+    "frames": "frames\\031.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Define moodboard como painel de refer\u00eancias para estabelecer dire\u00e7\u00e3o visual e comunicar ideias/sensa\u00e7\u00f5es no in\u00edcio do projeto. Pesquisa fotos e cores no Pinterest, mostra briefing e monta colagem com fotografias e tr\u00eas amostras de cor no Canva."
+  },
+  {
+    "id": 32,
+    "arquivo": "M\u00f3dulo 04 - Identidade Visual\\002 - Entendendo Psicologia das Cores \ufc46\udce2\\02 - Entendendo Psicologia das Cores \ufc46\udce2.mp4",
+    "duracao_s": 1293.312,
+    "intervalo_amostra_s": 107.776,
+    "frames": "frames\\032.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Slides apresentam psicologia das cores, c\u00edrculo com cores quentes/frias e associa\u00e7\u00f5es de sensa\u00e7\u00f5es. Exemplos vis\u00edveis: vermelho/Netflix, azul/HP, roxo/Nubank, rosa/Barbie e cinza/Apple. Registro do que a aula apresenta; as associa\u00e7\u00f5es n\u00e3o foram verificadas como regras universais."
+  },
+  {
+    "id": 33,
+    "arquivo": "M\u00f3dulo 04 - Identidade Visual\\003 - Definindo Paleta de Cor \ufc46\udce2\\03 - Definindo Paleta de Cor \ufc46\udce2.mp4",
+    "duracao_s": 1128.682667,
+    "intervalo_amostra_s": 94.05688891666667,
+    "frames": "frames\\033.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Relaciona paleta definida com reconhecimento de marca; apresenta c\u00edrculo crom\u00e1tico, combina\u00e7\u00f5es monocrom\u00e1tica e tr\u00edade, Adobe Color e Coolors. Demonstra ajuste e gera\u00e7\u00e3o de combina\u00e7\u00f5es em ferramentas externas."
+  },
+  {
+    "id": 34,
+    "arquivo": "M\u00f3dulo 04 - Identidade Visual\\004 - Definindo Tipografia \ufc46\udce2\\04 - Definindo Tipografia \ufc46\udce2.mp4",
+    "duracao_s": 1025.408,
+    "intervalo_amostra_s": 85.45066666666666,
+    "frames": "frames\\034.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Define tipografia como organiza\u00e7\u00e3o da apar\u00eancia do texto para legibilidade e comunica\u00e7\u00e3o. Mostra serif, sans serif, manuscrita e display, exemplos de adequa\u00e7\u00e3o entre fonte e mensagem e ferramentas Canva, FontJoy e Google Fonts."
+  },
+  {
+    "id": 35,
+    "arquivo": "M\u00f3dulo 04 - Identidade Visual\\005 - Criando Logo no Canva (Parte 1) \ufc46\udce2\\05 - Criando Logo no Canva (Parte 1) \ufc46\udce2.mp4",
+    "duracao_s": 1879.808,
+    "intervalo_amostra_s": 156.65066666666667,
+    "frames": "frames\\035.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Explora cria\u00e7\u00e3o de s\u00edmbolos e logotipos com formas e tipografia, incluindo monogramas e varia\u00e7\u00f5es de nomes. Tamb\u00e9m mostra proposta de identidade visual com entreg\u00e1veis, pagamento e briefing no Google Forms; pesquisa monogramas no Pinterest."
+  },
+  {
+    "id": 36,
+    "arquivo": "M\u00f3dulo 04 - Identidade Visual\\006 - Criando Logo no Canva (Parte 2) \ufc46\udce2\\06 - Criando Logo no Canva (Parte 2) \ufc46\udce2.mp4",
+    "duracao_s": 789.610667,
+    "intervalo_amostra_s": 65.80088891666666,
+    "frames": "frames\\036.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Mostra organiza\u00e7\u00e3o da entrega de identidade visual: variantes de logo, formatos de arquivo, pastas locais e no Google Drive, upload dos materiais e e-mail com link de entrega. A sequ\u00eancia inclui vers\u00f5es positiva/negativa do logo RK marketing."
+  },
+  {
+    "id": 37,
+    "arquivo": "M\u00f3dulo 04 - Identidade Visual\\07 - Passo a Passo Criando Identidade Visual \ufc46\udce2.mp4",
+    "duracao_s": 2567.189333,
+    "intervalo_amostra_s": 213.93244441666664,
+    "frames": "frames\\037.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Monta apresenta\u00e7\u00e3o de identidade para Raylle Libo: logotipo caligr\u00e1fico, monograma RL, verde profundo e bege, cart\u00e3o de visita, imagens/mockups, lista de servi\u00e7os e p\u00e1ginas de paleta e fontes. O conjunto mant\u00e9m os mesmos elementos de marca em aplica\u00e7\u00f5es diferentes."
+  },
+  {
+    "id": 38,
+    "arquivo": "M\u00f3dulo 05 - Principios do Design\\001 - Entendendo os princ\u00edpios de um Desing \ufc4a\udce1\\01 - Entendendo os princ\u00edpios de um Desing \ufc4a\udce1.mp4",
+    "duracao_s": 69.76,
+    "intervalo_amostra_s": 5.8133333333333335,
+    "frames": "frames\\038.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Introduz princ\u00edpios de design como integra\u00e7\u00e3o entre est\u00e9tica e leitura. Mostra exemplo de post com retrato e chamada sobre investimentos que ser\u00e1 refinado nas pr\u00f3ximas aulas."
+  },
+  {
+    "id": 39,
+    "arquivo": "M\u00f3dulo 05 - Principios do Design\\02 - Hierarquia \ufc4a\udce1.mp4",
+    "duracao_s": 251.392,
+    "intervalo_amostra_s": 20.949333333333332,
+    "frames": "frames\\039.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Define hierarquia visual pela ordem de import\u00e2ncia. Compara textos de tamanho uniforme com t\u00edtulo dominante, depois reduz destaque de nome/numera\u00e7\u00e3o e reorganiza o t\u00edtulo e informa\u00e7\u00f5es secund\u00e1rias do post."
+  },
+  {
+    "id": 40,
+    "arquivo": "M\u00f3dulo 05 - Principios do Design\\03 - Contraste \ufc4a\udce1.mp4",
+    "duracao_s": 189.056,
+    "intervalo_amostra_s": 15.754666666666667,
+    "frames": "frames\\040.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Define contraste entre textos/elementos e fundo, compara exemplos de baixa e maior legibilidade e altera o t\u00edtulo vermelho para branco sobre fundo azul escuro no post demonstrado."
+  },
+  {
+    "id": 41,
+    "arquivo": "M\u00f3dulo 05 - Principios do Design\\04 - Alinhamento \ufc4a\udce1.mp4",
+    "duracao_s": 216.106667,
+    "intervalo_amostra_s": 18.008888916666667,
+    "frames": "frames\\041.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Mostra alinhamento como organiza\u00e7\u00e3o da composi\u00e7\u00e3o. Compara exemplos desalinhados/alinhados e reposiciona nome, numera\u00e7\u00e3o, t\u00edtulo e rodap\u00e9 usando refer\u00eancias comuns no post."
+  },
+  {
+    "id": 42,
+    "arquivo": "M\u00f3dulo 05 - Principios do Design\\05 - Balanceamento \ufc4a\udce1.mp4",
+    "duracao_s": 140.864,
+    "intervalo_amostra_s": 11.738666666666667,
+    "frames": "frames\\042.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Define balanceamento como distribui\u00e7\u00e3o de peso visual. Compara tamanho e posi\u00e7\u00e3o de \u00edcones, fotos e texto; no post ajusta retrato e demais elementos para equilibrar os lados."
+  },
+  {
+    "id": 43,
+    "arquivo": "M\u00f3dulo 05 - Principios do Design\\06 - Respiro \ufc4a\udce1.mp4",
+    "duracao_s": 341.866667,
+    "intervalo_amostra_s": 28.488888916666667,
+    "frames": "frames\\043.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Apresenta respiro como espa\u00e7o que destaca o importante e reduz competi\u00e7\u00e3o visual. Remove decora\u00e7\u00e3o excedente, ajusta retrato e rodap\u00e9 e compara vers\u00e3o inicial com vers\u00e3o mais limpa."
+  },
+  {
+    "id": 44,
+    "arquivo": "M\u00f3dulo 05 - Principios do Design\\07 - Como eu faria o Design Perfeito \ufc4a\udce1.mp4",
+    "duracao_s": 339.370667,
+    "intervalo_amostra_s": 28.28088891666667,
+    "frames": "frames\\044.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Refina a composi\u00e7\u00e3o final: cria destaque amarelo no n\u00famero 7 e em palavras-chave, usa forma amarela atr\u00e1s do retrato, alinha t\u00edtulo e CTA, mant\u00e9m fundo azul e decora\u00e7\u00e3o pontual."
+  },
+  {
+    "id": 45,
+    "arquivo": "M\u00f3dulo 06 - Cria\u00e7\u00e3o Para Instagram\\001 - \ufc6e\udda8 EM BREVE SER\u00c1 ADICIONADO NOVAS AULAS \ufc6e\udda8\\01 - Introdu\u00e7\u00e3o \ufc46\udce2.mp4",
+    "duracao_s": 86.254333,
+    "intervalo_amostra_s": 7.187861083333334,
+    "frames": "frames\\045.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Introdu\u00e7\u00e3o ao m\u00f3dulo com arte de evento crist\u00e3o na tela. Os frames mostram a apresentadora e o design final; n\u00e3o revelam detalhes do conte\u00fado falado."
+  },
+  {
+    "id": 46,
+    "arquivo": "M\u00f3dulo 06 - Cria\u00e7\u00e3o Para Instagram\\02 - Desenvolvendo estilos de Design (Evento Crist\u00e3o) \ufc46\udce2.mp4",
+    "duracao_s": 1146.24,
+    "intervalo_amostra_s": 95.52,
+    "frames": "frames\\046.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Constr\u00f3i arte de evento crist\u00e3o DOMINGO: fundo marrom, recorte do palestrante, foto de p\u00fablico, t\u00edtulo grande texturizado, informa\u00e7\u00f5es menores, texto circular, gradientes e luzes. Ajusta a composi\u00e7\u00e3o para obter vers\u00f5es de estilo."
+  },
+  {
+    "id": 47,
+    "arquivo": "M\u00f3dulo 06 - Cria\u00e7\u00e3o Para Instagram\\020 - Criando Design com Mateus \ufc46\udce2\\20 - Criando Carrossel infinito (sobre carrossel) \ufc46\udce2.mp4",
+    "duracao_s": 2393.472,
+    "intervalo_amostra_s": 199.45600000000002,
+    "frames": "frames\\047.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1080,
+        "height": 608
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Constr\u00f3i carrossel cont\u00ednuo sobre carross\u00e9is: tela horizontal com guias, fundo preto e acentos roxos/amarelos, retratos recortados, livros e imagem de carrossel. Mostra Photopea e mockup de posts, al\u00e9m de p\u00e1ginas claras/escuras que se conectam."
+  },
+  {
+    "id": 48,
+    "arquivo": "M\u00f3dulo 06 - Cria\u00e7\u00e3o Para Instagram\\021 - Criando Carrossel infinito (sobre carrossel) \ufc46\udce2\\21 - Criando Post Est\u00e1tico Minimalista \ufc46\udce2.mp4",
+    "duracao_s": 942.208,
+    "intervalo_amostra_s": 78.51733333333333,
+    "frames": "frames\\048.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Cria post minimalista com retrato em preto e branco, letras/molduras em sequ\u00eancia vertical, texto EVOLUTION atravessando a imagem e pequeno destaque amarelo. Explora camadas, recorte e texto discreto em contorno."
+  },
+  {
+    "id": 49,
+    "arquivo": "M\u00f3dulo 06 - Cria\u00e7\u00e3o Para Instagram\\03 - Criando Carrossel Infinito (J\u00f3ias) \ufc46\udce2.mp4",
+    "duracao_s": 1876.074667,
+    "intervalo_amostra_s": 156.33955558333335,
+    "frames": "frames\\049.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Cria carrossel cont\u00ednuo de joias em tela horizontal dividida por guias. Usa fotos douradas, verde azulado e creme, gradientes para transi\u00e7\u00e3o foto/fundo, t\u00edtulos serifados e pequenos textos; ao final mostra PineTools Split Image para dividir a arte."
+  },
+  {
+    "id": 50,
+    "arquivo": "M\u00f3dulo 06 - Cria\u00e7\u00e3o Para Instagram\\04 - Carrossel Clean (Sof\u00e1) \ufc46\udce2.mp4",
+    "duracao_s": 2021.674667,
+    "intervalo_amostra_s": 168.47288891666668,
+    "frames": "frames\\050.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Cria carrossel clean sobre cuidados com sof\u00e1: paleta clara, foto do produto, formas org\u00e2nicas, cart\u00f5es de texto arredondados, fotos de aspirador/chaves e elementos cont\u00ednuos entre guias. Apresenta o panorama final horizontal."
+  },
+  {
+    "id": 51,
+    "arquivo": "M\u00f3dulo 06 - Cria\u00e7\u00e3o Para Instagram\\05 - Criando Carrossel Infinito (Roube Como Um Artista) \ufc46\udce2.mp4",
+    "duracao_s": 2123.392,
+    "intervalo_amostra_s": 176.94933333333333,
+    "frames": "frames\\051.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Constr\u00f3i carrossel inspirado no livro Roube como um Artista: fundo preto, fotografias recortadas, p\u00e1ginas claras de contraste, l\u00e1pis, t\u00edtulos grandes e destaques amarelos. Trabalha continuidade entre pain\u00e9is e mostra divis\u00e3o da imagem no PineTools."
+  },
+  {
+    "id": 52,
+    "arquivo": "M\u00f3dulo 06 - Cria\u00e7\u00e3o Para Instagram\\06 - Criativo Stories (Evento Tdah) \ufc46\udce2.mp4",
+    "duracao_s": 1396.458667,
+    "intervalo_amostra_s": 116.37155558333335,
+    "frames": "frames\\052.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Cria Story de evento TDAH com retrato de m\u00e9dico, fundo quente, gradiente escuro, chamada ESTAMOS AO VIVO, data em destaque, s\u00edmbolos e efeitos de luz/textura. O foco visual \u00e9 integrar retrato e texto na composi\u00e7\u00e3o vertical."
+  },
+  {
+    "id": 53,
+    "arquivo": "M\u00f3dulo 06 - Cria\u00e7\u00e3o Para Instagram\\07 - Recriando Post Est\u00e1tico (@Sanch\u00e3o I) \ufc46\udce2.mp4",
+    "duracao_s": 1056.149333,
+    "intervalo_amostra_s": 88.01244441666667,
+    "frames": "frames\\053.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Recria an\u00fancio de produto digital: fundo azul com d\u00f3lares, notifica\u00e7\u00f5es de vendas em cart\u00f5es transl\u00facidos, retrato recortado, gradiente e t\u00edtulo. Adiciona dinheiro em primeiro plano e controla a sobreposi\u00e7\u00e3o por camadas."
+  },
+  {
+    "id": 54,
+    "arquivo": "M\u00f3dulo 06 - Cria\u00e7\u00e3o Para Instagram\\08 - Recriando Post Est\u00e1tico (@Sanch\u00e3o II) \ufc46\udce2.mp4",
+    "duracao_s": 767.914667,
+    "intervalo_amostra_s": 63.992888916666665,
+    "frames": "frames\\054.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Recria varia\u00e7\u00e3o de an\u00fancio com mockup de smartphone, notifica\u00e7\u00f5es na tela, retrato sobreposto, ilumina\u00e7\u00e3o azul/verde, dinheiro e chamada na base. A sequ\u00eancia evidencia recorte, luzes e gradientes para unir os elementos."
+  },
+  {
+    "id": 55,
+    "arquivo": "M\u00f3dulo 06 - Cria\u00e7\u00e3o Para Instagram\\09 - Criando Carrossel Infinito (@RK) \ufc46\udce2.mp4",
+    "duracao_s": 2781.632,
+    "intervalo_amostra_s": 231.80266666666668,
+    "frames": "frames\\055.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Carrossel cont\u00ednuo RK: guia de dimens\u00f5es multiplicando 1080 pela quantidade de p\u00e1ginas, com alturas 1080 ou 1350. Usa colunas, miniaturas de trabalhos e mockups em Photopea, fundo dourado/preto, retrato e chamada para salvar."
+  },
+  {
+    "id": 56,
+    "arquivo": "M\u00f3dulo 06 - Cria\u00e7\u00e3o Para Instagram\\10 - Criando Post Est\u00e1tico (Black Friday) @RK \ufc46\udce2.mp4",
+    "duracao_s": 852.321,
+    "intervalo_amostra_s": 71.02675,
+    "frames": "frames\\056.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Cria post de Black Friday do curso com fotografia urbana escura, retrato em tom verde, t\u00edtulo superior, oferta/pre\u00e7os na base e efeitos de luz. Ajusta grupos e camadas para hierarquia entre headline, rosto e oferta."
+  },
+  {
+    "id": 57,
+    "arquivo": "M\u00f3dulo 06 - Cria\u00e7\u00e3o Para Instagram\\11 - Criando post Est\u00e1tico (Black Friday) Tatoo \ufc46\udce2.mp4",
+    "duracao_s": 811.754667,
+    "intervalo_amostra_s": 67.64622225000001,
+    "frames": "frames\\057.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Cria promo\u00e7\u00e3o de tatuagem: fundo escuro desfocado, retrato do bra\u00e7o tatuado, equipamento, BLACK FRIDAY em branco com faixa amarela, desconto de 20% e datas. Combina recorte, sombras, textura e acentos de luz."
+  },
+  {
+    "id": 58,
+    "arquivo": "M\u00f3dulo 06 - Cria\u00e7\u00e3o Para Instagram\\12 - Criando Carrossel Infinito (Steve Jobs) \ufc46\udce2.mp4",
+    "duracao_s": 2053.845333,
+    "intervalo_amostra_s": 171.15377775000002,
+    "frames": "frames\\058.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Carrossel Steve Jobs com retratos recortados, fundo preto/azul, n\u00fameros grandes em contorno, palavras destacadas e linhas diagonais atravessando p\u00e1ginas. Recorta uma m\u00e3o separadamente e exporta a composi\u00e7\u00e3o. A atribui\u00e7\u00e3o das frases n\u00e3o foi verificada."
+  },
+  {
+    "id": 59,
+    "arquivo": "M\u00f3dulo 06 - Cria\u00e7\u00e3o Para Instagram\\13 - Criando capa de Reels \ufc46\udce2.mp4",
+    "duracao_s": 925.290667,
+    "intervalo_amostra_s": 77.10755558333334,
+    "frames": "frames\\059.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Capa vertical de Reels com guias, fundo mostarda, headline branca, palavra Canva em outra tipografia, l\u00e2mpada dourada e chamada para assistir. Ajusta elementos para a regi\u00e3o central e adiciona luz/textura."
+  },
+  {
+    "id": 60,
+    "arquivo": "M\u00f3dulo 06 - Cria\u00e7\u00e3o Para Instagram\\14 - Criando Design De Live\ufc46\udce2.mp4",
+    "duracao_s": 763.904,
+    "intervalo_amostra_s": 63.65866666666667,
+    "frames": "frames\\060.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Design de live com cidade desfocada azul, retrato em aro met\u00e1lico rosa/roxo e t\u00edtulo LIVE preenchido e contornado. Sobrep\u00f5e a pessoa ao aro, organiza tema, data e lembrete."
+  },
+  {
+    "id": 61,
+    "arquivo": "M\u00f3dulo 06 - Cria\u00e7\u00e3o Para Instagram\\15 - Criando flyer para evento \ufc46\udce2.mp4",
+    "duracao_s": 1254.058667,
+    "intervalo_amostra_s": 104.50488891666667,
+    "frames": "frames\\061.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Flyer Electro Party: retrato do DJ, quadrado neon rosa/azul, fundo escuro, t\u00edtulo grande, data e atra\u00e7\u00f5es. Usa Photopea para recorte/fade e acrescenta fuma\u00e7a e luzes em camadas."
+  },
+  {
+    "id": 62,
+    "arquivo": "M\u00f3dulo 06 - Cria\u00e7\u00e3o Para Instagram\\16 - Criando design na pr\u00e1tica (GELEIA) \ufc46\udce2.mp4",
+    "duracao_s": 685.802667,
+    "intervalo_amostra_s": 57.150222250000006,
+    "frames": "frames\\062.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Publicidade de geleia Queensberry: pote recortado, frutas e folhas em primeiro plano, c\u00e9u ao fundo e superf\u00edcie/reflexo na base. Integra os elementos com gradientes rosa/roxo e ilumina\u00e7\u00e3o."
+  },
+  {
+    "id": 63,
+    "arquivo": "M\u00f3dulo 06 - Cria\u00e7\u00e3o Para Instagram\\17 - Criando um design na pr\u00e1tica (REL\u00d3GIO) \ufc46\udce2.mp4",
+    "duracao_s": 694.293333,
+    "intervalo_amostra_s": 57.85777775,
+    "frames": "frames\\063.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "An\u00fancio de rel\u00f3gio sobre pedestal preto/dourado, halo azul, t\u00edtulo New Collection e bot\u00e3o de compra. Trabalha sombras, ilumina\u00e7\u00e3o e contraste do produto."
+  },
+  {
+    "id": 64,
+    "arquivo": "M\u00f3dulo 06 - Cria\u00e7\u00e3o Para Instagram\\18 - Criando um design na pr\u00e1tica (DENTISTA) \ufc46\udce2.mp4",
+    "duracao_s": 546.602667,
+    "intervalo_amostra_s": 45.55022225,
+    "frames": "frames\\064.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Post de dentista com pergunta sobre escova dura, fundo branco, headline azul, m\u00e3o com escovas, palavra ESCOVA repetida em contorno e gradiente na base. A resposta cl\u00ednica n\u00e3o aparece nas amostras."
+  },
+  {
+    "id": 65,
+    "arquivo": "M\u00f3dulo 06 - Cria\u00e7\u00e3o Para Instagram\\19 - Criando Design com Mateus \ufc46\udce2.mp4",
+    "duracao_s": 1100.778667,
+    "intervalo_amostra_s": 91.73155558333333,
+    "frames": "frames\\065.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Mateus monta capa de portf\u00f3lio com retratos duplicados em tamanhos diferentes, uma c\u00f3pia dessaturada/desfocada e outra colorida recortada. Mostra Adobe Express para remo\u00e7\u00e3o de fundo, monograma e gradiente escuro na base."
+  },
+  {
+    "id": 66,
+    "arquivo": "M\u00f3dulo 06 - Cria\u00e7\u00e3o Para Instagram\\22 - Criando Design Paris \ufc46\udce2.mp4",
+    "duracao_s": 711.666667,
+    "intervalo_amostra_s": 59.30555558333333,
+    "frames": "frames\\066.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Composi\u00e7\u00e3o Paris: foto em moldura com canto dobrado, recorte da Torre Eiffel saindo da moldura, sombra, arco claro, t\u00edtulo espa\u00e7ado e textura sutil. Pesquisa fonte no DaFont e ajusta margens/camadas."
+  },
+  {
+    "id": 67,
+    "arquivo": "M\u00f3dulo 07 - Monetizando o seu trabalho com Canva\\004 - Planilha para Precificar designs \ufc4a\udce1\\04 - Planilha para Precificar designs \ufc4a\udce1.mp4",
+    "duracao_s": 730.624,
+    "intervalo_amostra_s": 60.885333333333335,
+    "frames": "frames\\067.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Demonstra planilha de gest\u00e3o com custos fixos mensais, dias/horas de trabalho e percentual de lucro, cadastro de servi\u00e7os, or\u00e7amento e clientes. Os valores mostrados s\u00e3o exemplos da aula."
+  },
+  {
+    "id": 68,
+    "arquivo": "M\u00f3dulo 07 - Monetizando o seu trabalho com Canva\\009 - Sobre Contrato \ufc46\udce2\\09 - Sobre Contrato \ufc46\udce2.mp4",
+    "duracao_s": 421.141333,
+    "intervalo_amostra_s": 35.09511108333333,
+    "frames": "frames\\068.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Slides sobre contrato: alinhamento de expectativas, profissionalismo, texto correto, pagamento, obriga\u00e7\u00f5es e quantidade de altera\u00e7\u00f5es. Demonstra assinatura de documento no gov.br; regras atuais e validade jur\u00eddica n\u00e3o foram avaliadas."
+  },
+  {
+    "id": 69,
+    "arquivo": "M\u00f3dulo 07 - Monetizando o seu trabalho com Canva\\01 - Servi\u00e7os pra oferecer no Canva \ufc4a\udce1.mp4",
+    "duracao_s": 536.896,
+    "intervalo_amostra_s": 44.74133333333333,
+    "frames": "frames\\069.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Lista servi\u00e7os com Canva: Instagram, ebooks, cart\u00f5es, card\u00e1pios com QR, convites, planners, templates, certificados, redes sociais, personalizados e produtos digitais."
+  },
+  {
+    "id": 70,
+    "arquivo": "M\u00f3dulo 07 - Monetizando o seu trabalho com Canva\\02 - Prepara\u00e7\u00e3o de Arrumar a casa \ufc4a\udce1.mp4",
+    "duracao_s": 917.333333,
+    "intervalo_amostra_s": 76.44444441666667,
+    "frames": "frames\\070.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Prepara\u00e7\u00e3o comercial via mapa mental: foto/nome/bio/CTA, destaques de depoimentos, bastidores, contrata\u00e7\u00e3o e portf\u00f3lio; feed para autoridade, Stories para rotina e Behance para melhores projetos. Menciona conte\u00fado educativo no TikTok."
+  },
+  {
+    "id": 71,
+    "arquivo": "M\u00f3dulo 07 - Monetizando o seu trabalho com Canva\\03 - Precificando seus designs \ufc4a\udce1.mp4",
+    "duracao_s": 357.787667,
+    "intervalo_amostra_s": 29.815638916666668,
+    "frames": "frames\\071.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Precifica\u00e7\u00e3o por pesquisa de mercado e valor/hora ou valor fixo. Demonstra calculadora com renda pretendida, dias e horas de trabalho, custos e margem; apresenta tabela de pre\u00e7os e pacotes como exemplo."
+  },
+  {
+    "id": 72,
+    "arquivo": "M\u00f3dulo 07 - Monetizando o seu trabalho com Canva\\05 - Encontrando Clientes Gold \ufc4a\udce1.mp4",
+    "duracao_s": 314.410667,
+    "intervalo_amostra_s": 26.200888916666667,
+    "frames": "frames\\072.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Define perfil de cliente ideal no mapa mental por segmento, maturidade no digital, disposi\u00e7\u00e3o para investir e tamanho da empresa. Argumentos falados n\u00e3o foram avaliados."
+  },
+  {
+    "id": 73,
+    "arquivo": "M\u00f3dulo 07 - Monetizando o seu trabalho com Canva\\06 - Onde Prospectar \ufc4a\udce1.mp4",
+    "duracao_s": 812.121,
+    "intervalo_amostra_s": 67.67675,
+    "frames": "frames\\073.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Canais de prospec\u00e7\u00e3o: grupos de Facebook, neg\u00f3cios locais/Google Maps, biblioteca de an\u00fancios, plataformas freelancer e networking. Mostra perfis e an\u00fancios para identificar demandas."
+  },
+  {
+    "id": 74,
+    "arquivo": "M\u00f3dulo 07 - Monetizando o seu trabalho com Canva\\07 - Passo a Passo pra Conseguir o seu Primeiro Cliente \ufc46\udce2.mp4",
+    "duracao_s": 1514.837333,
+    "intervalo_amostra_s": 126.23644441666666,
+    "frames": "frames\\074.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Passo a passo em Workana: cadastro, habilidades, projetos, proposta, or\u00e7amento/prazo e conversa. Usa ChatGPT para texto de proposta. N\u00e3o comprova conquista de cliente ou renda."
+  },
+  {
+    "id": 75,
+    "arquivo": "M\u00f3dulo 07 - Monetizando o seu trabalho com Canva\\08 - Abordagem de Elite \ufc4a\udce1.mp4",
+    "duracao_s": 410.787667,
+    "intervalo_amostra_s": 34.232305583333336,
+    "frames": "frames\\075.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Mapa de abordagem ativa (ir ao cliente, recriar material, proposta, rotina de contatos) e passiva (conte\u00fado atrai cliente). Mostra perfil de Instagram e modelo textual de abordagem em coment\u00e1rios."
+  },
+  {
+    "id": 76,
+    "arquivo": "M\u00f3dulo 07 - Monetizando o seu trabalho com Canva\\10 - Criando um portf\u00f3lio irresist\u00edvel \ufc46\udce2.mp4",
+    "duracao_s": 946.176,
+    "intervalo_amostra_s": 78.848,
+    "frames": "frames\\076.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Monta apresenta\u00e7\u00e3o de portf\u00f3lio no Canva com trabalhos agrupados, fundos, t\u00edtulos e efeitos. Demonstra projeto no Behance, capa, t\u00edtulo e tags para publica\u00e7\u00e3o."
+  },
+  {
+    "id": 77,
+    "arquivo": "M\u00f3dulo 07 - Monetizando o seu trabalho com Canva\\11 - Como ganhar dinheiro enquanto dorme com o Canva \ufc46\udce2.mp4",
+    "duracao_s": 1154.421,
+    "intervalo_amostra_s": 96.20175,
+    "frames": "frames\\077.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Demonstra templates edit\u00e1veis do Canva como produto digital e cadastro na Kiwify: produto, conte\u00fado/entrega, pagamentos e checkout. A promessa de renda do t\u00edtulo n\u00e3o foi comprovada."
+  },
+  {
+    "id": 78,
+    "arquivo": "M\u00f3dulo 08 - Cria\u00e7\u00e3o Extra\\001 - \ufc6e\udda8 EM BREVE SER\u00c1 ADICIONADO NOVAS AULAS \ufc6e\udda8\\01 - Como Criar um Site Responsivo \ufc46\udce2.mp4",
+    "duracao_s": 1883.690667,
+    "intervalo_amostra_s": 156.97422225,
+    "frames": "frames\\078.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1736,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Cria p\u00e1gina de vendas no Canva com headline, retrato, CTA, v\u00eddeo incorporado e se\u00e7\u00e3o de benef\u00edcios com mockup. Ajusta fotos, usa Photopea no mockup e demonstra publica\u00e7\u00e3o/visualiza\u00e7\u00e3o web. Responsividade completa n\u00e3o foi testada."
+  },
+  {
+    "id": 79,
+    "arquivo": "M\u00f3dulo 08 - Cria\u00e7\u00e3o Extra\\003 - Criando a Capa do Youtube \ufc4a\udce1\\03 - Criando Tumbnail I \ufc4a\udce1.mp4",
+    "duracao_s": 592.661333,
+    "intervalo_amostra_s": 49.388444416666665,
+    "frames": "frames\\079.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Thumbnail I: refer\u00eancias no YouTube, retrato recortado com borda branca, fundo amarelo, t\u00edtulo grande \u00e0 esquerda, espa\u00e7amento, gradientes e textura de pl\u00e1stico com transpar\u00eancia."
+  },
+  {
+    "id": 80,
+    "arquivo": "M\u00f3dulo 08 - Cria\u00e7\u00e3o Extra\\02 - Criando a Capa do Youtube \ufc4a\udce1.mp4",
+    "duracao_s": 666.261333,
+    "intervalo_amostra_s": 55.521777750000005,
+    "frames": "frames\\080.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Capa de canal YouTube: usa guia de \u00e1reas para diferentes telas, organiza logo/textos na faixa central, parede escura, luz verde e retratos. Demonstra a \u00e1rea de personaliza\u00e7\u00e3o no YouTube Studio."
+  },
+  {
+    "id": 81,
+    "arquivo": "M\u00f3dulo 08 - Cria\u00e7\u00e3o Extra\\04 - Criando Thumbnail II \ufc4a\udce1.mp4",
+    "duracao_s": 299.925333,
+    "intervalo_amostra_s": 24.993777750000003,
+    "frames": "frames\\081.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Thumbnail II: colagem de jornal e papel rasgado, retrato recortado, fundo fotogr\u00e1fico substitu\u00eddo/escurecido e t\u00edtulo branco com sombra. Adiciona padr\u00f5es discretos para finalizar."
+  },
+  {
+    "id": 82,
+    "arquivo": "M\u00f3dulo 08 - Cria\u00e7\u00e3o Extra\\05 - Criando cart\u00e3o de visita virtual \ufc4a\udce1.mp4",
+    "duracao_s": 675.072,
+    "intervalo_amostra_s": 56.256,
+    "frames": "frames\\082.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Cart\u00e3o virtual de a\u00e7a\u00ed em roxo/amarelo com produto recortado, folhas, frutas e \u00edcones. Demonstra links para WhatsApp, Instagram, card\u00e1pio e localiza\u00e7\u00e3o, e exporta\u00e7\u00e3o PDF para preservar intera\u00e7\u00e3o."
+  },
+  {
+    "id": 83,
+    "arquivo": "M\u00f3dulo 08 - Cria\u00e7\u00e3o Extra\\06 - Como fazer convite de anivers\u00e1rio \ufc4a\udce1.mp4",
+    "duracao_s": 583.424,
+    "intervalo_amostra_s": 48.61866666666666,
+    "frames": "frames\\083.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Convite de 15 anos: refer\u00eancias Pinterest, fundo rose gold, ret\u00e2ngulo claro, nome manuscrito, n\u00famero grande e folhas met\u00e1licas. Usa Photopea para tratar o n\u00famero, alinha blocos e monta variantes."
+  },
+  {
+    "id": 84,
+    "arquivo": "M\u00f3dulo 08 - Cria\u00e7\u00e3o Extra\\07 - Criando um Ebook do ZERO \ufc4a\udce1.mp4",
+    "duracao_s": 920.32,
+    "intervalo_amostra_s": 76.69333333333334,
+    "frames": "frames\\084.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Ebook: capa com fotografia e moldura, \u00edndice, p\u00e1ginas internas em colunas, fotos e numera\u00e7\u00e3o. Usa Lorem Ipsum como texto provis\u00f3rio; demonstra tipografia, margens e duplica\u00e7\u00e3o de p\u00e1gina."
+  },
+  {
+    "id": 85,
+    "arquivo": "M\u00f3dulo 09 - IA com Canva\\001 - \ufc6e\udda8 EM BREVE SER\u00c1 ADICIONADO NOVAS AULAS \ufc6e\udda8\\01 - Conte\u00fado em lote \ufc46\udce2.mp4",
+    "duracao_s": 482.069333,
+    "intervalo_amostra_s": 40.172444416666664,
+    "frames": "frames\\085.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Cria\u00e7\u00e3o em lote: solicita frases ao ChatGPT, transfere para planilha e conecta dados ao texto de um template Canva. Gera m\u00faltiplas p\u00e1ginas e mostra uma segunda varia\u00e7\u00e3o visual."
+  },
+  {
+    "id": 86,
+    "arquivo": "M\u00f3dulo 09 - IA com Canva\\02 - Gerador de Imagem \ufc46\udce2.mp4",
+    "duracao_s": 428.821333,
+    "intervalo_amostra_s": 35.73511108333333,
+    "frames": "frames\\086.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "M\u00eddia M\u00e1gica gera imagens por descri\u00e7\u00e3o e estilo, com exemplos de personagem ilustrada usando computador, cerveja em balc\u00e3o e estrada arborizada. Compara varia\u00e7\u00f5es e insere resultados no design; prompts completos n\u00e3o foram recuperados."
+  },
+  {
+    "id": 87,
+    "arquivo": "M\u00f3dulo 09 - IA com Canva\\03 - Estudio M\u00e1gico (por dentro do design) \ufc46\udce2.mp4",
+    "duracao_s": 857.237333,
+    "intervalo_amostra_s": 71.43644441666667,
+    "frames": "frames\\087.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Est\u00fadio M\u00e1gico: m\u00e1scaras sobre partes de fotos para apagar/substituir, expans\u00e3o de imagem e edi\u00e7\u00e3o localizada. Mostra retratos, copo e cabelo, al\u00e9m de aplica\u00e7\u00f5es em cartaz e sacola. A amostragem n\u00e3o confirma todos os nomes de comandos."
+  },
+  {
+    "id": 88,
+    "arquivo": "M\u00f3dulo 09 - IA com Canva\\04 - Criando Reflexo \ufc46\udce2.mp4",
+    "duracao_s": 224.170667,
+    "intervalo_amostra_s": 18.680888916666667,
+    "frames": "frames\\088.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Easy Reflections: carro recortado sobre fundo preto, reflex\u00e3o invertida na base, controles de posi\u00e7\u00e3o/opacidade e composi\u00e7\u00e3o sobre \u00e1gua com gradiente escuro."
+  },
+  {
+    "id": 89,
+    "arquivo": "M\u00f3dulo 10 - Edi\u00e7\u00e3o de Video\\001 - \ufc6e\udda8 EM BREVE SER\u00c1 ADICIONADO NOVAS AULAS \ufc6e\udda8\\01_Criando_apresenta\u00e7\u00e3o_com_transi\u00e7\u00e3o_profissional_\ufc46\udce2.mp4",
+    "duracao_s": 1162.538667,
+    "intervalo_amostra_s": 96.87822225000001,
+    "frames": "frames\\089.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Apresenta\u00e7\u00e3o de planetas: cinco faixas azuis, s\u00edmbolos e t\u00edtulos; duplica p\u00e1ginas e modifica posi\u00e7\u00e3o/tamanho dos elementos para transi\u00e7\u00f5es. Insere fotos e texto, define anima\u00e7\u00f5es e mostra controle por celular/QR."
+  },
+  {
+    "id": 90,
+    "arquivo": "M\u00f3dulo 10 - Edi\u00e7\u00e3o de Video\\003 - Criando e Editando Video com Cap Cut \ufc46\udce2\\03 - Stories Animado \ufc4a\udce1.mp4",
+    "duracao_s": 471.744,
+    "intervalo_amostra_s": 39.312000000000005,
+    "frames": "frames\\090.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Stories animado no Canva: redimensiona para 1080x1920, combina retrato, fundo de v\u00eddeo com transpar\u00eancia, cart\u00e3o de texto e efeito de escrita. Ajusta anima\u00e7\u00f5es de entrada/sa\u00edda, intensidade e dura\u00e7\u00e3o, e reproduz o resultado."
+  },
+  {
+    "id": 91,
+    "arquivo": "M\u00f3dulo 10 - Edi\u00e7\u00e3o de Video\\02 - Criando e Editando Video com Cap Cut \ufc46\udce2.mp4",
+    "duracao_s": 1059.968,
+    "intervalo_amostra_s": 88.33066666666667,
+    "frames": "frames\\091.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Mostra OBS para captura de tela e CapCut no celular: importa retrato e grava\u00e7\u00e3o de tela, organiza clipes/camadas, corta, enquadra e exporta. A qualidade do \u00e1udio e as falas n\u00e3o foram avaliadas."
+  },
+  {
+    "id": 92,
+    "arquivo": "M\u00f3dulo 11 - MasterClass Criando uma Landing Page Profissional - Alef Miranda\\01 - Criando Landing page do Zero (DESKTOP).mp4",
+    "duracao_s": 4174.771,
+    "intervalo_amostra_s": 347.89758333333333,
+    "frames": "frames\\092.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Landing page desktop no Figma: grade, logo, headline, formul\u00e1rio visual e CTA, retrato com halo roxo, faixas diagonais, contador, cards de p\u00fablico, apresenta\u00e7\u00e3o do especialista e rodap\u00e9. Os campos no Figma s\u00e3o desenho, sem comprova\u00e7\u00e3o de funcionamento."
+  },
+  {
+    "id": 93,
+    "arquivo": "M\u00f3dulo 11 - MasterClass Criando uma Landing Page Profissional - Alef Miranda\\02 - Criando Landing page do Zero (MOBILE).mp4",
+    "duracao_s": 955.146,
+    "intervalo_amostra_s": 79.5955,
+    "frames": "frames\\093.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Adapta a landing page para celular no Figma: reorganiza retrato/headline/CTA, contador, cards empilhados e biografia vertical. Ajusta textos, propor\u00e7\u00f5es e espa\u00e7amento."
+  },
+  {
+    "id": 94,
+    "arquivo": "M\u00f3dulo 11 - MasterClass Criando uma Landing Page Profissional - Alef Miranda\\03 - Implementa\u00e7\u00e3o - Aula 1.mp4",
+    "duracao_s": 5672.979333,
+    "intervalo_amostra_s": 472.74827775,
+    "frames": "frames\\094.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Implementa\u00e7\u00e3o inicial em WordPress/Elementor: compara com Figma, cria cont\u00eaineres, fundos e imagens, contador, t\u00edtulos, formul\u00e1rio, bot\u00e3o, faixas e se\u00e7\u00f5es inferiores. H\u00e1 ajustes de posicionamento em desktop; submiss\u00e3o real do formul\u00e1rio n\u00e3o foi testada."
+  },
+  {
+    "id": 95,
+    "arquivo": "M\u00f3dulo 11 - MasterClass Criando uma Landing Page Profissional - Alef Miranda\\04 - Implementa\u00e7\u00e3o - Aula 2.mp4",
+    "duracao_s": 627.937667,
+    "intervalo_amostra_s": 52.32813891666667,
+    "frames": "frames\\095.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Implementa\u00e7\u00e3o 2: ajustes em largura, t\u00edtulos e hero, depois card do especialista com retrato, texto e imagens de clientes. Usa navegador de elementos e finaliza CTA/rodap\u00e9."
+  },
+  {
+    "id": 96,
+    "arquivo": "M\u00f3dulo 11 - MasterClass Criando uma Landing Page Profissional - Alef Miranda\\05 - Implementa\u00e7\u00e3o - Aula 3.mp4",
+    "duracao_s": 632.646,
+    "intervalo_amostra_s": 52.720499999999994,
+    "frames": "frames\\096.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Implementa\u00e7\u00e3o 3: trabalha contador, logo, imagens, espa\u00e7amento e cards, compara biografia com Figma e ajusta imagem/transpar\u00eancia e texto."
+  },
+  {
+    "id": 97,
+    "arquivo": "M\u00f3dulo 11 - MasterClass Criando uma Landing Page Profissional - Alef Miranda\\06 - Implementa\u00e7\u00e3o - Aula 4.mp4",
+    "duracao_s": 533.062667,
+    "intervalo_amostra_s": 44.42188891666667,
+    "frames": "frames\\097.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Implementa\u00e7\u00e3o 4: alterna desktop/tablet, ajusta tipografia e layout, empilha cards e reorganiza CTA, data e rodap\u00e9 para telas menores."
+  },
+  {
+    "id": 98,
+    "arquivo": "M\u00f3dulo 11 - MasterClass Criando uma Landing Page Profissional - Alef Miranda\\07 - Implementa\u00e7\u00e3o - Aula 5.mp4",
+    "duracao_s": 1814.729333,
+    "intervalo_amostra_s": 151.22744441666666,
+    "frames": "frames\\098.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Implementa\u00e7\u00e3o 5: concentra ajustes no celular, reorganizando imagem da primeira dobra, logo e texto abaixo, contador, cards e rodap\u00e9. Usa m\u00eddia exportada e compara com vers\u00e3o m\u00f3vel do Figma."
+  },
+  {
+    "id": 99,
+    "arquivo": "M\u00f3dulo 11 - MasterClass Criando uma Landing Page Profissional - Alef Miranda\\08 - Criando Link na Bio (DESKTOP).mp4",
+    "duracao_s": 1503.317333,
+    "intervalo_amostra_s": 125.27644441666666,
+    "frames": "frames\\099.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Link na bio desktop no Figma: t\u00edtulo, breve apresenta\u00e7\u00e3o, bot\u00f5es de or\u00e7amento/portf\u00f3lio, cards de cursos/lista de espera/mentoria, fundo preto com luzes roxas/laranja e bordas discretas."
+  },
+  {
+    "id": 100,
+    "arquivo": "M\u00f3dulo 11 - MasterClass Criando uma Landing Page Profissional - Alef Miranda\\09 - Criando Link na Bio (MOBILE).mp4",
+    "duracao_s": 318.826667,
+    "intervalo_amostra_s": 26.568888916666666,
+    "frames": "frames\\100.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Link na bio m\u00f3vel no Figma: cria frame estreito, empilha conte\u00fado, ajusta rodap\u00e9 e rearranja t\u00edtulo/cards com gradientes. Demonstra preview dentro de moldura de celular."
+  },
+  {
+    "id": 101,
+    "arquivo": "M\u00f3dulo 11 - MasterClass Criando uma Landing Page Profissional - Alef Miranda\\10 - Criando Link na Bio (DESKTOP) IMPLEMENTA\u00c7\u00c3O.mp4",
+    "duracao_s": 3114.752,
+    "intervalo_amostra_s": 259.56266666666664,
+    "frames": "frames\\101.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Implementa link na bio desktop em Elementor: cont\u00eaineres, textos, bot\u00f5es com gradiente, cards de cursos, lista de espera, mentoria e rodap\u00e9. Compara medidas/assets com Figma e mostra CSS na configura\u00e7\u00e3o da p\u00e1gina; o c\u00f3digo completo n\u00e3o foi recuperado."
+  },
+  {
+    "id": 102,
+    "arquivo": "M\u00f3dulo 11 - MasterClass Criando uma Landing Page Profissional - Alef Miranda\\11 - Criando Link na Bio (MOBILE) IMPLEMENTA\u00c7\u00c3O.mp4",
+    "duracao_s": 574.549333,
+    "intervalo_amostra_s": 47.879111083333335,
+    "frames": "frames\\102.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Implementa\u00e7\u00e3o m\u00f3vel do link na bio em Elementor: ajustes de largura, t\u00edtulos, bot\u00f5es, cards e rodap\u00e9. Compara com Figma e usa ferramentas do navegador para inspecionar dimens\u00f5es. Destinos dos links n\u00e3o foram testados."
+  },
+  {
+    "id": 103,
+    "arquivo": "M\u00f3dulo 12 - Traf\u00e9go Pago - Vicente L\u00f4bo\\01 - Aula 01 - Boas Vindas.mp4",
+    "duracao_s": 91.626667,
+    "intervalo_amostra_s": 7.635555583333333,
+    "frames": "frames\\103.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1080,
+        "height": 608
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Boas-vindas com professor diante da c\u00e2mera. N\u00e3o h\u00e1 texto t\u00e9cnico nos frames; explica\u00e7\u00e3o falada n\u00e3o foi avaliada."
+  },
+  {
+    "id": 104,
+    "arquivo": "M\u00f3dulo 12 - Traf\u00e9go Pago - Vicente L\u00f4bo\\02 - Aula 02 - Pra que Tr\u00e1fego Pago.mp4",
+    "duracao_s": 413.824,
+    "intervalo_amostra_s": 34.48533333333334,
+    "frames": "frames\\104.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1080,
+        "height": 608
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Apresenta tr\u00e1fego pago como meio para vendas, reconhecimento e divulga\u00e7\u00e3o da marca. Mostra compara\u00e7\u00f5es de dashboards de julho/agosto de 2023 e exemplo de lead por WhatsApp; imagens n\u00e3o estabelecem causalidade ou resultados futuros."
+  },
+  {
+    "id": 105,
+    "arquivo": "M\u00f3dulo 12 - Traf\u00e9go Pago - Vicente L\u00f4bo\\03 - Aula 03 - Introdu\u00e7\u00e3o.mp4",
+    "duracao_s": 779.157333,
+    "intervalo_amostra_s": 64.92977775,
+    "frames": "frames\\105.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1080,
+        "height": 608
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Slides distinguem org\u00e2nico e pago e relacionam campanha, p\u00fablico e an\u00fancio. Exemplos: mercado local, loja de produto capilar e designer oferecendo servi\u00e7o para advocacia. Lista plataformas de an\u00fancios."
+  },
+  {
+    "id": 106,
+    "arquivo": "M\u00f3dulo 12 - Traf\u00e9go Pago - Vicente L\u00f4bo\\04 - Aula 04 - Estrutura e Conceito.mp4",
+    "duracao_s": 1009.92,
+    "intervalo_amostra_s": 84.16,
+    "frames": "frames\\106.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1080,
+        "height": 608
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Estrutura: objetivo na campanha; p\u00fablico no conjunto de an\u00fancios; v\u00eddeo/imagem, copy e CTA no an\u00fancio. Mostra objetivos e p\u00fablicos personalizados, semelhantes e por interesses/salvos, al\u00e9m das tr\u00eas abas do gerenciador."
+  },
+  {
+    "id": 107,
+    "arquivo": "M\u00f3dulo 12 - Traf\u00e9go Pago - Vicente L\u00f4bo\\05 - Aula 06 - Criando sua BM.mp4",
+    "duracao_s": 407.887667,
+    "intervalo_amostra_s": 33.99063891666667,
+    "frames": "frames\\107.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1080,
+        "height": 608
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Demonstra cria\u00e7\u00e3o de portf\u00f3lio empresarial/BM no Meta Business Suite: nome, contato, pessoas e acesso ao gerenciador/configura\u00e7\u00f5es. Telas correspondem \u00e0 grava\u00e7\u00e3o e n\u00e3o foram verificadas na interface atual."
+  },
+  {
+    "id": 108,
+    "arquivo": "M\u00f3dulo 12 - Traf\u00e9go Pago - Vicente L\u00f4bo\\06 - Aula 07 - Associa\u00e7\u00e3o de Ativos Externos_2.mp4",
+    "duracao_s": 526.081,
+    "intervalo_amostra_s": 43.84008333333333,
+    "frames": "frames\\108.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Associa ativos externos nas configura\u00e7\u00f5es do neg\u00f3cio: p\u00e1gina Facebook, WhatsApp, Instagram e dom\u00ednio. Percorre perfis, sele\u00e7\u00e3o de p\u00e1gina e telas de autoriza\u00e7\u00e3o/conex\u00e3o."
+  },
+  {
+    "id": 109,
+    "arquivo": "M\u00f3dulo 12 - Traf\u00e9go Pago - Vicente L\u00f4bo\\07 - Aula 7.1 - Verificando Dominio_2.mp4",
+    "duracao_s": 683.261,
+    "intervalo_amostra_s": 56.93841666666666,
+    "frames": "frames\\109.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Verifica\u00e7\u00e3o de dom\u00ednio: painel Meta, dom\u00ednio/hospedagem e WordPress; insere tag no cabe\u00e7alho via WPCode e retorna \u00e0 tela de verifica\u00e7\u00e3o. N\u00e3o realizou altera\u00e7\u00e3o em conta ou site do usu\u00e1rio."
+  },
+  {
+    "id": 110,
+    "arquivo": "M\u00f3dulo 12 - Traf\u00e9go Pago - Vicente L\u00f4bo\\08 - Aula 7.2 - Criando Ativos Internos_2.mp4",
+    "duracao_s": 534.821,
+    "intervalo_amostra_s": 44.56841666666667,
+    "frames": "frames\\110.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Ativos internos: convida pessoa e permiss\u00f5es, cria conta de an\u00fancios com nome/fuso/moeda, mostra configura\u00e7\u00e3o de pagamento e gerenciador. N\u00e3o houve compra ou cadastro real feito por mim."
+  },
+  {
+    "id": 111,
+    "arquivo": "M\u00f3dulo 12 - Traf\u00e9go Pago - Vicente L\u00f4bo\\09 - Aula 7.3 - Associa\u00e7\u00e3o entre Ativos_2.mp4",
+    "duracao_s": 205.861,
+    "intervalo_amostra_s": 17.155083333333334,
+    "frames": "frames\\111.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Associa\u00e7\u00e3o entre ativos: adiciona pessoas e conecta Instagram, p\u00e1ginas, conta de an\u00fancios e conjunto de dados/pixel. Mostra permiss\u00f5es e v\u00ednculos nas configura\u00e7\u00f5es do neg\u00f3cio."
+  },
+  {
+    "id": 112,
+    "arquivo": "M\u00f3dulo 12 - Traf\u00e9go Pago - Vicente L\u00f4bo\\10 - Aula 08 - Pixel e API de Convers\u00e3o_2.mp4",
+    "duracao_s": 1083.561,
+    "intervalo_amostra_s": 90.29674999999999,
+    "frames": "frames\\112.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 3840,
+        "height": 2160
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Slides distinguem pixel no navegador e API de convers\u00f5es no servidor, com diagramas de envio de eventos \u00e0 Meta. Exemplos incluem visita, cadastro, carrinho e compra, plataformas de venda e refer\u00eancias a GTM/Analytics. A amostragem n\u00e3o verifica implementa\u00e7\u00e3o, privacidade ou pol\u00edticas atuais."
+  },
+  {
+    "id": 113,
+    "arquivo": "M\u00f3dulo 12 - Traf\u00e9go Pago - Vicente L\u00f4bo\\11 - Aula 8.1 - Pixel e API de Convers\u00e3o_2.mp4",
+    "duracao_s": 877.341,
+    "intervalo_amostra_s": 73.11175,
+    "frames": "frames/113-revisao.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 3840,
+        "height": 2160
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "tempos_s": [
+      36.555875,
+      109.667625,
+      182.779375,
+      255.891125,
+      329.002875,
+      402.114625,
+      475.226375,
+      548.338125,
+      621.449875,
+      694.5616249999999,
+      767.673375,
+      840.785125
+    ],
+    "metodo": "busca_temporal_decodificada",
+    "observacao": "Demonstra configura\u00e7\u00e3o de pixel/fonte de dados nas ferramentas da Meta, op\u00e7\u00f5es de instala\u00e7\u00e3o manual e integra\u00e7\u00f5es de parceiros. As telas mostram WordPress e inser\u00e7\u00e3o de c\u00f3digo no cabe\u00e7alho via WPCode. N\u00e3o foi recuperado o c\u00f3digo integral nem confirmado o funcionamento dos eventos."
+  },
+  {
+    "id": 114,
+    "arquivo": "M\u00f3dulo 12 - Traf\u00e9go Pago - Vicente L\u00f4bo\\12 - Aula 09 - Cria\u00e7\u00e3o de P\u00fablicos_2.mp4",
+    "duracao_s": 1214.841,
+    "intervalo_amostra_s": 101.23674999999999,
+    "frames": "frames/114-revisao.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 3840,
+        "height": 2160
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "tempos_s": [
+      50.61837499999999,
+      151.855125,
+      253.091875,
+      354.32862499999993,
+      455.56537499999996,
+      556.8021249999999,
+      658.038875,
+      759.2756249999999,
+      860.5123749999999,
+      961.7491249999999,
+      1062.9858749999999,
+      1164.2226249999999
+    ],
+    "metodo": "busca_temporal_decodificada",
+    "observacao": "Demonstra p\u00fablicos personalizados de Instagram, p\u00e1gina do Facebook e site/pixel, p\u00fablicos semelhantes e p\u00fablicos salvos. As telas incluem origem, reten\u00e7\u00e3o/eventos e segmenta\u00e7\u00e3o por localiza\u00e7\u00e3o, idade, g\u00eanero e interesses; as amostras n\u00e3o cobrem cada par\u00e2metro configurado."
+  },
+  {
+    "id": 115,
+    "arquivo": "M\u00f3dulo 12 - Traf\u00e9go Pago - Vicente L\u00f4bo\\13 - Aula 10 - Criativos_2.mp4",
+    "duracao_s": 1465.061,
+    "intervalo_amostra_s": 122.08841666666666,
+    "frames": "frames/115-revisao.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 3840,
+        "height": 2160
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "tempos_s": [
+      61.04420833333333,
+      183.132625,
+      305.2210416666666,
+      427.30945833333334,
+      549.397875,
+      671.4862916666666,
+      793.5747083333332,
+      915.6631249999999,
+      1037.7515416666668,
+      1159.8399583333332,
+      1281.928375,
+      1404.0167916666667
+    ],
+    "metodo": "busca_temporal_decodificada",
+    "observacao": "Relaciona criativo a imagem/v\u00eddeo, roteiro, copy e chamada para a\u00e7\u00e3o. Slides prop\u00f5em gancho, dor/curiosidade/necessidade e solu\u00e7\u00e3o; listam depoimentos, obje\u00e7\u00f5es, resultados, escassez e antes/depois. Apresenta Canva, CapCut e ChatGPT e exemplo de roteiro para energia solar. Resultados financeiros exibidos s\u00e3o alega\u00e7\u00f5es da aula, sem verifica\u00e7\u00e3o independente."
+  },
+  {
+    "id": 116,
+    "arquivo": "M\u00f3dulo 12 - Traf\u00e9go Pago - Vicente L\u00f4bo\\14 - Aula 11 - Campanha para visitar perfil_2.mp4",
+    "duracao_s": 1206.281,
+    "intervalo_amostra_s": 100.52341666666666,
+    "frames": "frames/116-revisao.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 3840,
+        "height": 2160
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "tempos_s": [
+      50.26170833333333,
+      150.785125,
+      251.30854166666666,
+      351.8319583333334,
+      452.3553749999999,
+      552.8787916666666,
+      653.4022083333333,
+      753.925625,
+      854.4490416666666,
+      954.9724583333333,
+      1055.4958749999998,
+      1156.0192916666667
+    ],
+    "metodo": "busca_temporal_decodificada",
+    "observacao": "Telas mostram ferramentas de an\u00fancios da Meta, conte\u00fados do Instagram e o fluxo de promo\u00e7\u00e3o, com objetivo de visitas ao perfil, edi\u00e7\u00e3o de p\u00fablico/localiza\u00e7\u00e3o, or\u00e7amento e envio do an\u00fancio. A sequ\u00eancia amostrada n\u00e3o permite reconstruir todos os cliques ou confirmar resultados da campanha."
+  },
+  {
+    "id": 117,
+    "arquivo": "M\u00f3dulo 12 - Traf\u00e9go Pago - Vicente L\u00f4bo\\15 - Aula 12 - Campanha para whatsapp_2.mp4",
+    "duracao_s": 2077.441,
+    "intervalo_amostra_s": 173.12008333333333,
+    "frames": "frames/117-revisao.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 3840,
+        "height": 2160
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "tempos_s": [
+      86.56004166666666,
+      259.680125,
+      432.8002083333333,
+      605.9202916666667,
+      779.0403749999999,
+      952.1604583333333,
+      1125.2805416666665,
+      1298.400625,
+      1471.5207083333332,
+      1644.6407916666665,
+      1817.760875,
+      1990.8809583333332
+    ],
+    "metodo": "busca_temporal_decodificada",
+    "observacao": "Cria campanha no Gerenciador de An\u00fancios, configura conversas por WhatsApp, p\u00fablico, or\u00e7amento e posicionamentos, e prepara an\u00fancio com v\u00eddeo/imagem e pr\u00e9via. Edita modelo de mensagem, sauda\u00e7\u00e3o e perguntas antes de mostrar a campanha na listagem. N\u00e3o houve publica\u00e7\u00e3o ou altera\u00e7\u00e3o de conta por esta an\u00e1lise."
+  },
+  {
+    "id": 118,
+    "arquivo": "M\u00f3dulo 13 - B\u00d4NUS - Guia Completo para Social Media\\01 - Boas Vindas.mp4",
+    "duracao_s": 430.293333,
+    "intervalo_amostra_s": 35.857777750000004,
+    "frames": "frames/118-revisao.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "tempos_s": [
+      17.928888875000002,
+      53.786666625,
+      89.64444437499999,
+      125.502222125,
+      161.359999875,
+      197.21777762500002,
+      233.07555537500002,
+      268.93333312500005,
+      304.791110875,
+      340.648888625,
+      376.50666637500007,
+      412.36444412500003
+    ],
+    "metodo": "busca_temporal_decodificada",
+    "observacao": "As amostras mostram a professora falando para a c\u00e2mera, sem slides ou demonstra\u00e7\u00e3o de tela. N\u00e3o \u00e9 poss\u00edvel recuperar a explica\u00e7\u00e3o verbal desta aula por esses frames; o t\u00edtulo de boas-vindas \u00e9 apenas informa\u00e7\u00e3o do arquivo."
+  },
+  {
+    "id": 119,
+    "arquivo": "M\u00f3dulo 13 - B\u00d4NUS - Guia Completo para Social Media\\02 - Servicos.mp4",
+    "duracao_s": 356.544,
+    "intervalo_amostra_s": 29.712,
+    "frames": "frames/119-revisao.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "tempos_s": [
+      14.856,
+      44.568000000000005,
+      74.27999999999999,
+      103.992,
+      133.70399999999998,
+      163.416,
+      193.12800000000001,
+      222.84,
+      252.552,
+      282.26399999999995,
+      311.976,
+      341.68799999999993
+    ],
+    "metodo": "busca_temporal_decodificada",
+    "observacao": "As amostras mostram a professora falando para a c\u00e2mera, sem texto did\u00e1tico ou demonstra\u00e7\u00e3o de tela. O conte\u00fado verbal sobre servi\u00e7os n\u00e3o foi analisado; n\u00e3o se inferem orienta\u00e7\u00f5es espec\u00edficas apenas do t\u00edtulo."
+  },
+  {
+    "id": 120,
+    "arquivo": "M\u00f3dulo 13 - B\u00d4NUS - Guia Completo para Social Media\\03 - Redes Sociais.mp4",
+    "duracao_s": 356.501333,
+    "intervalo_amostra_s": 29.708444416666666,
+    "frames": "frames/120-revisao.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "tempos_s": [
+      14.854222208333333,
+      44.562666625,
+      74.27111104166666,
+      103.97955545833332,
+      133.687999875,
+      163.39644429166665,
+      193.10488870833333,
+      222.81333312499999,
+      252.52177754166667,
+      282.2302219583333,
+      311.93866637499997,
+      341.64711079166665
+    ],
+    "metodo": "busca_temporal_decodificada",
+    "observacao": "As amostras mostram a professora falando para a c\u00e2mera, sem slides ou demonstra\u00e7\u00e3o de tela. O conte\u00fado verbal sobre redes sociais n\u00e3o foi analisado; n\u00e3o se inferem t\u00e9cnicas espec\u00edficas apenas do t\u00edtulo."
+  },
+  {
+    "id": 121,
+    "arquivo": "M\u00f3dulo 13 - B\u00d4NUS - Guia Completo para Social Media\\04 - Prospec\u00e7\u00e3o.mp4",
+    "duracao_s": 229.994667,
+    "intervalo_amostra_s": 19.16622225,
+    "frames": "frames/121-revisao.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "tempos_s": [
+      9.583111125,
+      28.749333375000003,
+      47.915555624999996,
+      67.081777875,
+      86.24800012499999,
+      105.414222375,
+      124.580444625,
+      143.746666875,
+      162.912889125,
+      182.079111375,
+      201.24533362499997,
+      220.41155587499998
+    ],
+    "metodo": "busca_temporal_decodificada",
+    "observacao": "As amostras mostram a professora falando para a c\u00e2mera, sem slides ou demonstra\u00e7\u00e3o de tela. O conte\u00fado verbal sobre prospec\u00e7\u00e3o n\u00e3o foi analisado; os frames n\u00e3o permitem recuperar os argumentos da aula."
+  },
+  {
+    "id": 122,
+    "arquivo": "M\u00f3dulo 13 - B\u00d4NUS - Guia Completo para Social Media\\05 - Conclus\u00e3o.mp4",
+    "duracao_s": 110.698667,
+    "intervalo_amostra_s": 9.224888916666666,
+    "frames": "frames/122-revisao.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "tempos_s": [
+      4.612444458333333,
+      13.837333375,
+      23.062222291666668,
+      32.287111208333336,
+      41.512000125,
+      50.736889041666664,
+      59.961777958333336,
+      69.186666875,
+      78.41155579166667,
+      87.63644470833333,
+      96.861333625,
+      106.08622254166666
+    ],
+    "metodo": "busca_temporal_decodificada",
+    "observacao": "As amostras mostram a professora falando para a c\u00e2mera e o encerramento visual. N\u00e3o h\u00e1 slides ou demonstra\u00e7\u00e3o de tela nas amostras; as conclus\u00f5es faladas n\u00e3o foram analisadas."
+  }
+]

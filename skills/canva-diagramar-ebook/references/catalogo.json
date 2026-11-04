@@ -1,0 +1,21 @@
+[
+  {
+    "id": 84,
+    "arquivo": "M\u00f3dulo 08 - Cria\u00e7\u00e3o Extra\\07 - Criando um Ebook do ZERO \ufc4a\udce1.mp4",
+    "duracao_s": 920.32,
+    "intervalo_amostra_s": 76.69333333333334,
+    "frames": "frames\\084.jpg",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_type": "audio"
+      }
+    ],
+    "status": "amostras_visuais_revisadas",
+    "observacao": "Ebook: capa com fotografia e moldura, \u00edndice, p\u00e1ginas internas em colunas, fotos e numera\u00e7\u00e3o. Usa Lorem Ipsum como texto provis\u00f3rio; demonstra tipografia, margens e duplica\u00e7\u00e3o de p\u00e1gina."
+  }
+]

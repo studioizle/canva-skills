@@ -1,0 +1,14 @@
+interface:
+  display_name: 'Canva: criação em lote'
+  short_description: Conectar tabelas a templates e revisar as variações.
+  default_prompt: Use $canva-gerar-designs-em-lote. Prepare estes 20 textos para criação
+    em lote neste template do Canva.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
